@@ -23,8 +23,10 @@ public class CheckLargest{
 	   }else{
 		     third=true;
 	   } 
+	  
       	  System.out.println("Is the first number the largest? "+first);
 		  System.out.println("Is the second number the largest? "+second);
 		  System.out.println("Is the third number the largest? "+third);
   }
+
 }
