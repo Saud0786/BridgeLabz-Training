@@ -23,14 +23,16 @@ public class BMICalculation {
         for(int i=0;i<n;i++){
             bmi[i]=weight[i]/(height[i]*height[i]);
 
-            if(bmi[i]<=18.4)
-                status[i]="Underweight";
-            else if(bmi[i]<=24.9)
+            if(bmi[i]<=18.4){
+			status[i]="Underweight";
+			}
+            else if(bmi[i]<=24.9){
                 status[i]="Normal";
-            else if(bmi[i]<=39.9)
+            }else if(bmi[i]<=39.9){
                 status[i]="Overweight";
-            else
-                status[i]="Obese";
+            }else{
+			status[i]="Obese";
+			}
         }
 
         // Display all result
