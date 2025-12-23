@@ -1,5 +1,5 @@
 import java.util.Scanner;
-// 3
+
 public class FirstNonRepeatingCharacter {
 
     // Method to find first non-repeating character using charAt()
