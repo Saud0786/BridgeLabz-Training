@@ -1,5 +1,4 @@
 import java.util.Scanner;
-//2
 public class UniqueCharactersUsingCharAt {
 
     // Method to find length of string without using length()
