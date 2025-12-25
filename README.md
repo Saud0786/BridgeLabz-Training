@@ -88,4 +88,22 @@ BridgeLabz-Training/
 - Solved problems:
   - Finding missing elements
   - Basic array logic
+
 🔗 Code Link: https://github.com/Saud0786/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays
+
+
+## 🗓 Day 7 – Strings & Methods  
+ Date: 23-Dec-2025
+
+- Studied String concepts:
+  - String creation
+  - String methods
+  - Character processing
+- Implemented string manipulation programs.
+- Studied Java methods:
+  - Method declaration
+  - Method calling
+  - Parameter passing
+- Practiced reusable logic using methods.
+
+🔗 Code Link: 
