@@ -35,7 +35,7 @@ BridgeLabz-Training/
   - `git add`
   - `git commit`
   - `git push`
-- Code link: https://github.com/Saud0786/BridgeLabz-Training
+- Code link: https://github.com/Saud0786/BridgeLabz-Training/tree/core-java-practice
 
 
 ## 🗓 Day 2 – Git Practice & Basic Java Programs  
@@ -45,7 +45,7 @@ BridgeLabz-Training/
 - Solved basic Java programs to learn syntax and structure.
 - Practiced adding, committing, and pushing Java files to GitHub.
 
-🔗 **Code Link:**  https://github.com/Saud0786/BridgeLabz-Training/tree/core-java-practice
+🔗 Code Link:  https://github.com/Saud0786/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Program-Prerequisites
 
 
 ## 🗓 Day 3 – Programming Elements in Java  
@@ -92,18 +92,40 @@ BridgeLabz-Training/
 🔗 Code Link: https://github.com/Saud0786/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays
 
 
-## 🗓 Day 7 – Strings & Methods  
- Date: 23-Dec-2025
-
-- Studied String concepts:
-  - String creation
-  - String methods
-  - Character processing
-- Implemented string manipulation programs.
+## 🗓 Day 6 – Methods & Basic Problem Solving  
+ Date: 22-Dec-2025
 - Studied Java methods:
   - Method declaration
   - Method calling
   - Parameter passing
 - Practiced reusable logic using methods.
 
-🔗 Code Link: 
+🔗 Code Link (String): https://github.com/Saud0786/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/String
+
+
+
+## 🗓 Day 7 - String & Basic Problem Solving 
+ Date: 23-Dec-2025
+ - Studied String concepts:
+  - String creation
+  - String methods
+  - Character processing
+- Implemented string manipulation programs.
+  - Practiced UserDefined Methods, Using methods multiple times
+  - Learned about Java.lang.Math Class
+🔗 Code Link (Method): https://github.com/Saud0786/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/methods 
+
+
+
+## 🗓 Day 8 – Built-in Functions & Extra Practice  
+ Date: 24-Dec-2025**
+
+- Practiced Java built-in functions.
+- Implemented utility programs:
+  - Temperature Converter
+- Improved understanding of:
+  - Input handling
+  - Type conversion
+- Organized programs into appropriate folders.
+
+🔗 Code Link: https://github.com/Saud0786/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extra
