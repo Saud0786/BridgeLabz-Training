@@ -77,3 +77,15 @@ BridgeLabz-Training/
   - Prime Number Check
 
 🔗 Code Link: https://github.com/Saud0786/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flows 
+
+## 🗓 Day 5 – Arrays & Basic Problem Solving  
+ Date: 20-Dec-2025
+
+- Studied arrays in Java:
+  - Single-dimensional arrays
+  - Multi-dimensional arrays
+- Practiced array traversal and operations.
+- Solved problems:
+  - Finding missing elements
+  - Basic array logic
+🔗 Code Link: https://github.com/Saud0786/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays
