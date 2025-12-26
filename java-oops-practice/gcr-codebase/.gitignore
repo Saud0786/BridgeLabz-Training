@@ -4,6 +4,7 @@ bin/
 .project
 .classpath
 /.metadata/
+.gitignore
 
 # OS files
 .DS_Store
