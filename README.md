@@ -35,7 +35,8 @@ BridgeLabz-Training/
   - `git add`
   - `git commit`
   - `git push`
-- Code link: https://github.com/Saud0786/BridgeLabz-Training/tree/core-java-practice
+    
+🔗 Code link: https://github.com/Saud0786/BridgeLabz-Training/tree/core-java-practice
 
 
 ## 🗓 Day 2 – Git Practice & Basic Java Programs  
@@ -57,7 +58,8 @@ BridgeLabz-Training/
   - User Input and Output
 - Solved practice problems based on programming elements.
 - Committed and pushed solutions to the repository.
-- Code link: https://github.com/Saud0786/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements
+
+🔗 Code link: https://github.com/Saud0786/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements
   
 
 ## 🗓 Day 4 – Control Flow & Logical Constructs  
