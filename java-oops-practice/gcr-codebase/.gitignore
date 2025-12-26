@@ -1,0 +1,19 @@
+# Eclipse / Java
+bin/
+.settings/
+.project
+.classpath
+/.metadata/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Compiled files
+*.class
+
+
+
