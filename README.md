@@ -6,7 +6,7 @@
 ---
 
 ## 🗓 Day 1 – Git & GitHub Setup  
- Date: 16-Dec-2025
+ **Date**: 16-Dec-2025
 
 - Installed and configured Git.
 - Created and set up a GitHub repository.
@@ -17,12 +17,14 @@ BridgeLabz-Training/
 ├── core-java-practice/
 │   ├── gcr-codebase/
 │   │   ├── arrays/
-│   │   ├── builtin-functions/
+│   │   ├── extra
+|   |   |    ├──builtin-functions/
+|   |   |    ├──string-handling/ 
 │   │   ├── control-flow/
 │   │   ├── java-methods/
 │   │   ├── programming-elements/
-│   │   ├── programming-requisites/
 │   │   └── string-handling/
+│   │   
 │   │
 │   ├── leet-code-codebase/
 │   └── scenario-based/
@@ -40,7 +42,7 @@ BridgeLabz-Training/
 
 
 ## 🗓 Day 2 – Git Practice & Basic Java Programs  
- Date: 17-Dec-2025
+  **Date**: 17-Dec-2025
 
 - Practiced Git workflow for better understanding of version control.
 - Solved basic Java programs to learn syntax and structure.
@@ -50,7 +52,7 @@ BridgeLabz-Training/
 
 
 ## 🗓 Day 3 – Programming Elements in Java  
- Date: 18-Dec-2025
+  **Date**: 18-Dec-2025
 
 - Studied core Java programming elements:
   - Variables and Data Types
@@ -63,7 +65,7 @@ BridgeLabz-Training/
   
 
 ## 🗓 Day 4 – Control Flow & Logical Constructs  
- Date: 19-Dec-2025
+  **Date**: 19-Dec-2025
 
 - Studied logical constructs:
   - `if`, `if-else`
@@ -81,7 +83,7 @@ BridgeLabz-Training/
 🔗 Code Link: https://github.com/Saud0786/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flows 
 
 ## 🗓 Day 5 – Arrays & Basic Problem Solving  
- Date: 20-Dec-2025
+ **Date**: 20-Dec-2025
 
 - Studied arrays in Java:
   - Single-dimensional arrays
@@ -95,7 +97,7 @@ BridgeLabz-Training/
 
 
 ## 🗓 Day 6 – Methods & Basic Problem Solving  
- Date: 22-Dec-2025
+ **Date**: 22-Dec-2025
 - Studied Java methods:
   - Method declaration
   - Method calling
@@ -107,7 +109,7 @@ BridgeLabz-Training/
 
 
 ## 🗓 Day 7 - String & Basic Problem Solving 
- Date: 23-Dec-2025
+  **Date**: 23-Dec-2025
  - Studied String concepts:
   - String creation
   - String methods
@@ -120,7 +122,7 @@ BridgeLabz-Training/
 
 
 ## 🗓 Day 8 – Built-in Functions & Extra Practice  
- Date: 24-Dec-2025**
+ **Date**: 24-Dec-2025
 
 - Practiced Java built-in functions.
 - Implemented utility programs:
