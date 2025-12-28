@@ -34,6 +34,7 @@ java-oops-practice/
 - Creating classes and objects in Java
 - Accessing variables and methods using objects
 - Basic real-world examples using classes
+**Code Link:** https://github.com/Saud0786/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/classandobject
 ---
 
 ### 🗓 Day 2 – Constructors & Access Modifiers  
@@ -61,3 +62,4 @@ java-oops-practice/
 - Book Library System
 - Bank Account Management System
 - Employee Records System ..... etc.
+**Code Link:** https://github.com/Saud0786/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructorandacessmodifers/
