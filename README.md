@@ -35,3 +35,29 @@ java-oops-practice/
 - Accessing variables and methods using objects
 - Basic real-world examples using classes
 ---
+
+### 🗓 Day 2 – Constructors & Access Modifiers  
+**Date: 27-Dec-2025**
+
+#### 📘 Concepts Learned
+- **Constructors**
+  - Default constructor
+  - Parameterized constructor
+  - Constructor overloading
+- **Access Modifiers**
+  - `public`
+  - `protected`
+  - `private`
+  - default (package-private)
+#### 💻 Practical Implementation
+- Implemented Java programs under:
+  - `constructorandaccessmodifiers` package
+- Practiced object initialization using constructors.
+- Applied encapsulation using `private` variables.
+- Used getter and setter methods to control data access.
+- Demonstrated inheritance with `protected` members.
+
+#### 🧪 Programs Practiced
+- Book Library System
+- Bank Account Management System
+- Employee Records System ..... etc.
