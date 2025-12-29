@@ -4,7 +4,7 @@ public class SmartParking{
 	
 	// class variable for proper update
     static int currOccupied=0;
-	static int parkingCapacity=10;
+	static int parkingCapacity=2;
 	
   // Method for parking track	
   public static void parking(){
@@ -33,6 +33,11 @@ public class SmartParking{
      Scanner sc= new Scanner(System.in);
 	 
 	 while(true){
+		  if(currOccupied>=parkingCapacity){
+		     System.out.println("Parking Full."); 
+		     return;
+			}
+		 
 	    System.out.println("Enter your choise:");
 		System.out.println("1. Parking \n2.Show Occupancy \n3.Exit ");
 		int parkingCapacity = 5;
@@ -46,7 +51,7 @@ public class SmartParking{
 			        break;
 			case 2: showOccupancy();
                     break;
-            case 3: System.out.println("Please lock your vehicle. \nExit....");
+            case 3: System.out.println("Thanks for using. \nExit....");
 			       return;					
 		}
 	 } 
