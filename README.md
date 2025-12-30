@@ -63,3 +63,39 @@ java-oops-practice/
 - Bank Account Management System
 - Employee Records System ..... etc.
 **Code Link:** https://github.com/Saud0786/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructorandacessmodifers/
+
+  ---
+### 🗓 Day 3 – Java Keywords & Operators  
+**Date: 29-Dec-2025**
+
+#### 📘 Concepts Learned
+- **static keyword**  
+  (class-level variables and methods)
+- **final keyword**  
+  (constants, method prevention, and immutability)
+- **instanceof operator**  
+  (runtime object type checking)
+
+#### 🛠 Developed Practice Programs Using Real-World Entities
+- BankAccount  
+- Book  
+- Library  
+- Company  
+- Patient  
+- Product  
+- Student 
+- Vehicle  
+
+#### 🧩 Applied Object-Oriented Principles
+- Encapsulation  
+- Class design  
+- Method usage
+#### ✨ Coding Practices
+- Practiced writing clean and structured Java programs  
+- Followed proper naming conventions  
+
+#### 🔄 Version Control
+- Committed and pushed all completed programs to the remote repository  
+- Used standard Git practices
+  
+**🔗 Code Link:** https://github.com/Saud0786/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/keywordandoperator/level1
