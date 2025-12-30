@@ -132,4 +132,23 @@ BridgeLabz-Training/
   - Type conversion
 - Organized programs into appropriate folders.
 
-🔗 Code Link: https://github.com/Saud0786/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extra
+**🔗 Code Link:** https://github.com/Saud0786/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extra
+
+---
+
+
+### 🗓 Day 9 – Scenario Based Problems  
+**Date:** 26-Dec-2025
+1. Election Booth Manager
+2. Metro Smart Card Fare Deduction
+3. Raj’s Result Generator
+Concepts: if-else, switch
+Loops: for, while
+Operators: ternary
+Input: Scanner
+Output: Console
+Status: Completed & pushed to GitHub
+
+**🔗 Code Link:** https://github.com/Saud0786/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase
+
+
