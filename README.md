@@ -1,7 +1,3 @@
-# BrideLabz Training Progress Log
-
-## This repositiry tracks my daily learning journey during the BridgeLabz Java Full Stack Program. Each Day includes Git/GitHub activities, Java concepts, and committed code links. 
-
 ##  Week 1: Git, GitHub & Java Programming Fundamentals
 ---
 
@@ -169,36 +165,41 @@ Status: Completed & pushed to GitHub
 
 
 ### 🗓 Day 10 – Scenario Based Problems  
-**Date:** 29-Dec-2025
-6. Parking Lot Gate System 🚗
-7. The Number Guessing Game 🎲
-8. Shopkeeper’s Discount Dashboard 🛍️
-9.  School Bus Attendance System 🚍
-10. Phone Recharge Simulator 📱
-Concepts: if-else, switch, Array, String
-Loops: for, while, do-while
-Operators: ternary
-Input: Scanner
-Output: Console
-Status: Completed & pushed to GitHub
+**Date:** 29-Dec-2025  
 
-**🔗 Code Link:** https://github.com/Saud0786/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase
+6. Parking Lot Gate System 🚗  
+7. The Number Guessing Game 🎲  
+8. Shopkeeper’s Discount Dashboard 🛍️  
+9. School Bus Attendance System 🚍  
+10. Phone Recharge Simulator 📱  
+
+**Concepts:** if-else, switch, Array, String  
+**Loops:** for, while, do-while  
+**Operators:** ternary  
+**Input:** Scanner  
+**Output:** Console  
+**Status:** Completed & pushed to GitHub  
+
+**🔗 Code Link:**  
+https://github.com/Saud0786/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase  
 
 ---
 
 ### 🗓 Day 11 – Scenario Based Problems  
-**Date:** 30-Dec-2025
-11. Temperature Logger 🌡️
-12. Train Reservation Queue 🚆
-13. Sandeep’s Fitness Challenge Tracker 🏋️
-14. Movie Ticket Booking App 🎬
-15. Rohan’s Library Reminder App 📚
-Concepts: if-else, switch, Array, String
-Loops: for, while
-Operators: ternary
-Input: Scanner
-Output: Console
-Status: Completed & pushed to GitHub
+**Date:** 30-Dec-2025  
+
+11. Temperature Logger 🌡️  
+12. Train Reservation Queue 🚆  
+13. Sandeep’s Fitness Challenge Tracker 🏋️  
+14. Movie Ticket Booking App 🎬  
+15. Rohan’s Library Reminder App 📚  
+
+**Concepts:** if-else, switch, Array, String  
+**Loops:** for, while  
+**Operators:** ternary  
+**Input:** Scanner  
+**Output:** Console  
+**Status:** Completed & pushed to GitHub  
 
 **🔗 Code Link:** https://github.com/Saud0786/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase
 
