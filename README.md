@@ -35,7 +35,7 @@ java-oops-practice/
 - Accessing variables and methods using objects
 - Basic real-world examples using classes
   
-**🔗 Code Link:**  https://github.com/Saud0786/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/classandobject
+**🔗 Code Link:**  [Java OOPS Initial Setup  & Learn Class and Object](https://github.com/Saud0786/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/classandobject)
 
 ---
 
@@ -65,7 +65,7 @@ java-oops-practice/
 - Bank Account Management System
 - Employee Records System ..... etc.
   
-**🔗 Code Link:** https://github.com/Saud0786/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructorandacessmodifers/
+**🔗 Code Link:** [Constructors & Access Modifiers ](https://github.com/Saud0786/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructorandacessmodifers/)
 
   ---
   
@@ -102,11 +102,11 @@ java-oops-practice/
 - Committed and pushed all completed programs to the remote repository  
 - Used standard Git practices
   
-**🔗 Code Link:** https://github.com/Saud0786/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/keywordandoperator/level1
+**🔗 Code Link:** [Java Keywords & Operators  ](https://github.com/Saud0786/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/keywordandoperator/level1)
 
 ---
 
-### 🗓 Day 4 – OOP Relationships & UML Basics  
+### 🗓 Day 4 – OOPs Relationships & UML Basics  
 **Date: 30-Dec-2025**
 
 - Learned **Classes vs Objects** in Java  
@@ -124,6 +124,6 @@ java-oops-practice/
   - Company & Departments (Composition)
 - Implemented Java code and pushed to GitHub
   
-**🔗 Code Link:** https://github.com/Saud0786/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/objectmodeling
+**🔗 Code Link:** [OOPs Relationships & UML Basics](https://github.com/Saud0786/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/objectmodeling)
   
 ---
