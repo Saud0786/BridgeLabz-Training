@@ -205,4 +205,16 @@ https://github.com/Saud0786/BridgeLabz-Training/tree/core-java-practice/scenario
 
 ---
 
+### 🗓 Day 12 – Scenario Based Problems  
+**Date:** 31-Dec-2025  
 
+16. Digital Watch Simulation ⏱️
+17. Online Quiz Application 🧠
+
+**Concepts:** if-else, switch, Array, String  
+**Loops:** for, while  
+**Input:** Scanner  
+**Output:** Console  
+**Status:** Completed & pushed to GitHub  
+
+**🔗 Code Link:** https://github.com/Saud0786/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase
