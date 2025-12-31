@@ -1,5 +1,7 @@
 ##  Week 1: Git, GitHub & Java Programming Fundamentals
+
 ---
+
 
 ## 🗓 Day 1 – Git & GitHub Setup  
  **Date**: 16-Dec-2025
@@ -34,7 +36,7 @@ BridgeLabz-Training/
   - `git commit`
   - `git push`
     
-**🔗 Code Link:** https://github.com/Saud0786/BridgeLabz-Training/tree/core-java-practice
+**🔗 Code Link:** [ java practice and file setup](https://github.com/Saud0786/BridgeLabz-Training/tree/core-java-practice)
 
 ---
 
@@ -45,7 +47,7 @@ BridgeLabz-Training/
 - Solved basic Java programs to learn syntax and structure.
 - Practiced adding, committing, and pushing Java files to GitHub.
 
-**🔗 Code Link:** https://github.com/Saud0786/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Program-Prerequisites
+**🔗 Code Link:** [ Git Practice & Basic Java Programs](https://github.com/Saud0786/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Program-Prerequisites)
 
 ---
 
@@ -60,7 +62,7 @@ BridgeLabz-Training/
 - Committed and pushed solutions to the repository.
 
 
-**🔗 Code Link:** https://github.com/Saud0786/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements
+**🔗 Code Link:** [ Programming Elements in Java](https://github.com/Saud0786/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements)
 
 ---  
 
@@ -81,7 +83,7 @@ BridgeLabz-Training/
   - Prime Number Check
 
 
-**🔗 Code Link:** https://github.com/Saud0786/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flows 
+**🔗 Code Link:** [ Control Flow & Logical Constructs](https://github.com/Saud0786/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flows) 
 
 ---
 
@@ -97,7 +99,7 @@ BridgeLabz-Training/
   - Basic array logic
 
 
-**🔗 Code Link:** https://github.com/Saud0786/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays
+**🔗 Code Link:** [ Arrays & Basic Problem Solving](https://github.com/Saud0786/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)
 
 ---
 
@@ -109,7 +111,7 @@ BridgeLabz-Training/
   - Parameter passing
 - Practiced reusable logic using methods.
 
-**🔗 Code Link:** https://github.com/Saud0786/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/String
+**🔗 Code Link:** [ Methods & Basic Problem Solving](https://github.com/Saud0786/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/String)
 
 ---
 
@@ -123,7 +125,7 @@ BridgeLabz-Training/
   - Practiced UserDefined Methods, Using methods multiple times
   - Learned about Java.lang.Math Class
     
-**🔗 Code Link:** https://github.com/Saud0786/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/methods 
+**🔗 Code Link:** [ String & Basic Problem Solving ](https://github.com/Saud0786/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/methods) 
 
 ### Week end
 ---
@@ -140,7 +142,7 @@ BridgeLabz-Training/
   - Type conversion
 - Organized programs into appropriate folders.
 
-**🔗 Code Link:** https://github.com/Saud0786/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extra
+**🔗 Code Link:** [Built-in Functions & Extra Practice ](https://github.com/Saud0786/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extra)
 
 ---
 
@@ -159,7 +161,7 @@ Input: Scanner
 Output: Console
 Status: Completed & pushed to GitHub
 
-**🔗 Code Link:** https://github.com/Saud0786/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase
+**🔗 Code Link:** [Scenario Based Problems](https://github.com/Saud0786/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
 
 ---
 
@@ -180,8 +182,7 @@ Status: Completed & pushed to GitHub
 **Output:** Console  
 **Status:** Completed & pushed to GitHub  
 
-**🔗 Code Link:**  
-https://github.com/Saud0786/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase  
+**🔗 Code Link:**  [Scenario Based Problems](https://github.com/Saud0786/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
 
 ---
 
@@ -201,8 +202,23 @@ https://github.com/Saud0786/BridgeLabz-Training/tree/core-java-practice/scenario
 **Output:** Console  
 **Status:** Completed & pushed to GitHub  
 
-**🔗 Code Link:** https://github.com/Saud0786/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase
+**🔗 Code Link:** [Scenario Based Problems](https://github.com/Saud0786/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
 
 ---
 
+### 🗓 Day 12 – Scenario Based Problems  
+**Date:** 31-Dec-2025  
+
+16. Digital Watch Simulation ⏱️
+17. Online Quiz Application 🧠
+
+**Concepts:** if-else, switch, Array, String  
+**Loops:** for, while  
+**Input:** Scanner  
+**Output:** Console  
+**Status:** Completed & pushed to GitHub  
+
+**🔗 Code Link:** [Scenario Based Problems](https://github.com/Saud0786/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+
+---
 
