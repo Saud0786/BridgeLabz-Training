@@ -216,6 +216,9 @@ Status: Completed & pushed to GitHub
 
 16. Digital Watch Simulation ⏱️
 17. Online Quiz Application 🧠
+18. Currency Exchange Kiosk 💱
+19. Bus Route Distance Tracker 🚌
+20. Festival Lucky Draw 🎉
 
 **Concepts:** if-else, switch, Array, String  
 **Loops:** for, while  
@@ -360,5 +363,55 @@ java-oops-practice/
   
 **🔗 Code Link:** [OOPs Relationships & UML Basics](https://github.com/Saud0786/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/objectmodeling)
   
+---
+
+### 🗓 Day 5 – OOPs Inheritance (All types)  
+**Date: 31-Dec-2025**
+
+- **Inheritance**
+  - Mechanism where one class acquires the properties and behavior of another class.
+  - Promotes code reusability and hierarchical classification.
+
+- **Single Level Inheritance**
+  - One subclass inherits from one superclass.
+  - Example: `Child → Parent`
+
+- **Multilevel Inheritance**
+  - A class is derived from another derived class.
+  - Example: `Grandchild → Child → Parent`
+
+- **Hierarchical Inheritance**
+  - Multiple subclasses inherit from a single superclass.
+  - Example: `Child1 → Parent`, `Child2 → Parent`
+
+- **Key Features of Inheritance**
+  - Code reusability  
+  - Method overriding  
+  - Runtime polymorphism  
+  - Improved maintainability  
+  - Extensibility  
+
+- **Method Overriding**
+  - Subclass provides a specific implementation of a method already defined in the parent class.
+  - Achieved using the same method signature.
+
+- **Constructor Inheritance in Java**
+  - Constructors are **not inherited**.
+  - Parent class constructor is invoked using `super()` keyword.
+
+- **Polymorphism and Inheritance**
+  - Inheritance enables runtime polymorphism.
+  - Method calls are resolved based on object type, not reference type.
+
+- **Access Modifiers and Inheritance**
+  - `public` → Accessible everywhere  
+  - `protected` → Accessible within package and subclasses  
+  - `default` → Accessible within the same package  
+  - `private` → Not accessible in subclasses  
+
+ **Solved Many problem and push on github**
+
+**🔗 Code link:** [Inheritance in java](https://github.com/Saud0786/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inheritance)
+ 
 ---
 
