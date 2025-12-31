@@ -211,6 +211,9 @@ Status: Completed & pushed to GitHub
 
 16. Digital Watch Simulation ⏱️
 17. Online Quiz Application 🧠
+18. Currency Exchange Kiosk 💱
+19. Bus Route Distance Tracker 🚌
+20. Festival Lucky Draw 🎉
 
 **Concepts:** if-else, switch, Array, String  
 **Loops:** for, while  
