@@ -41,7 +41,7 @@ BridgeLabz-Training/
   - `git commit`
   - `git push`
     
-**🔗 Code Link:** https://github.com/Saud0786/BridgeLabz-Training/tree/core-java-practice
+**🔗 Code Link:** [ java practice and file setup](https://github.com/Saud0786/BridgeLabz-Training/tree/core-java-practice)
 
 ---
 
@@ -52,7 +52,7 @@ BridgeLabz-Training/
 - Solved basic Java programs to learn syntax and structure.
 - Practiced adding, committing, and pushing Java files to GitHub.
 
-**🔗 Code Link:** https://github.com/Saud0786/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Program-Prerequisites
+**🔗 Code Link:** [ Git Practice & Basic Java Programs](https://github.com/Saud0786/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Program-Prerequisites)
 
 ---
 
@@ -67,7 +67,7 @@ BridgeLabz-Training/
 - Committed and pushed solutions to the repository.
 
 
-**🔗 Code Link:** https://github.com/Saud0786/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements
+**🔗 Code Link:** [ Programming Elements in Java](https://github.com/Saud0786/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements)
 
 ---  
 
@@ -88,7 +88,7 @@ BridgeLabz-Training/
   - Prime Number Check
 
 
-**🔗 Code Link:** https://github.com/Saud0786/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flows 
+**🔗 Code Link:** [ Control Flow & Logical Constructs](https://github.com/Saud0786/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flows) 
 
 ---
 
@@ -104,7 +104,7 @@ BridgeLabz-Training/
   - Basic array logic
 
 
-**🔗 Code Link:** https://github.com/Saud0786/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays
+**🔗 Code Link:** [ Arrays & Basic Problem Solving](https://github.com/Saud0786/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)
 
 ---
 
@@ -116,7 +116,7 @@ BridgeLabz-Training/
   - Parameter passing
 - Practiced reusable logic using methods.
 
-**🔗 Code Link:** https://github.com/Saud0786/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/String
+**🔗 Code Link:** [ Methods & Basic Problem Solving](https://github.com/Saud0786/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/String)
 
 ---
 
@@ -130,7 +130,7 @@ BridgeLabz-Training/
   - Practiced UserDefined Methods, Using methods multiple times
   - Learned about Java.lang.Math Class
     
-**🔗 Code Link:** https://github.com/Saud0786/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/methods 
+**🔗 Code Link:** [ String & Basic Problem Solving ](https://github.com/Saud0786/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/methods) 
 
 ### Week end
 ---
@@ -147,7 +147,7 @@ BridgeLabz-Training/
   - Type conversion
 - Organized programs into appropriate folders.
 
-**🔗 Code Link:** https://github.com/Saud0786/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extra
+**🔗 Code Link:** [Built-in Functions & Extra Practice ](https://github.com/Saud0786/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extra)
 
 ---
 
@@ -166,7 +166,7 @@ Input: Scanner
 Output: Console
 Status: Completed & pushed to GitHub
 
-**🔗 Code Link:** https://github.com/Saud0786/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase
+**🔗 Code Link:** [Scenario Based Problems](https://github.com/Saud0786/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
 
 ---
 
@@ -187,8 +187,7 @@ Status: Completed & pushed to GitHub
 **Output:** Console  
 **Status:** Completed & pushed to GitHub  
 
-**🔗 Code Link:**  
-https://github.com/Saud0786/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase  
+**🔗 Code Link:**  [Scenario Based Problems](https://github.com/Saud0786/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
 
 ---
 
@@ -208,7 +207,7 @@ https://github.com/Saud0786/BridgeLabz-Training/tree/core-java-practice/scenario
 **Output:** Console  
 **Status:** Completed & pushed to GitHub  
 
-**🔗 Code Link:** https://github.com/Saud0786/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase
+**🔗 Code Link:** [Scenario Based Problems](https://github.com/Saud0786/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
 
 ---
 
@@ -224,7 +223,7 @@ https://github.com/Saud0786/BridgeLabz-Training/tree/core-java-practice/scenario
 **Output:** Console  
 **Status:** Completed & pushed to GitHub  
 
-**🔗 Code Link:** https://github.com/Saud0786/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase
+**🔗 Code Link:** [Scenario Based Problems](https://github.com/Saud0786/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
 
 ---
 
@@ -270,7 +269,7 @@ java-oops-practice/
 - Accessing variables and methods using objects
 - Basic real-world examples using classes
   
-**🔗 Code Link:**  https://github.com/Saud0786/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/classandobject
+**🔗 Code Link:**  [Java OOPS Initial Setup  & Learn Class and Object](https://github.com/Saud0786/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/classandobject)
 
 ---
 
@@ -300,7 +299,7 @@ java-oops-practice/
 - Bank Account Management System
 - Employee Records System ..... etc.
   
-**🔗 Code Link:** https://github.com/Saud0786/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructorandacessmodifers/
+**🔗 Code Link:** [Constructors & Access Modifiers ](https://github.com/Saud0786/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructorandacessmodifers/)
 
   ---
   
@@ -337,11 +336,11 @@ java-oops-practice/
 - Committed and pushed all completed programs to the remote repository  
 - Used standard Git practices
   
-**🔗 Code Link:** https://github.com/Saud0786/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/keywordandoperator/level1
+**🔗 Code Link:** [Java Keywords & Operators  ](https://github.com/Saud0786/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/keywordandoperator/level1)
 
 ---
 
-### 🗓 Day 4 – OOP Relationships & UML Basics  
+### 🗓 Day 4 – OOPs Relationships & UML Basics  
 **Date: 30-Dec-2025**
 
 - Learned **Classes vs Objects** in Java  
@@ -359,7 +358,7 @@ java-oops-practice/
   - Company & Departments (Composition)
 - Implemented Java code and pushed to GitHub
   
-**🔗 Code Link:** https://github.com/Saud0786/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/objectmodeling
+**🔗 Code Link:** [OOPs Relationships & UML Basics](https://github.com/Saud0786/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/objectmodeling)
   
 ---
 
