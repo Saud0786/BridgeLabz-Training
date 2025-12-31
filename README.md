@@ -1,7 +1,3 @@
-# BrideLabz Training Progress Log
-
-## This repositiry tracks my daily learning journey during the BridgeLabz Java Full Stack Program. Each Day includes Git/GitHub activities, Java concepts, and committed code links. 
-
 ##  Week 1: Git, GitHub & Java Programming Fundamentals
 ---
 
@@ -38,8 +34,9 @@ BridgeLabz-Training/
   - `git commit`
   - `git push`
     
-🔗 Code link: https://github.com/Saud0786/BridgeLabz-Training/tree/core-java-practice
+**🔗 Code Link:** https://github.com/Saud0786/BridgeLabz-Training/tree/core-java-practice
 
+---
 
 ## 🗓 Day 2 – Git Practice & Basic Java Programs  
   **Date**: 17-Dec-2025
@@ -48,8 +45,9 @@ BridgeLabz-Training/
 - Solved basic Java programs to learn syntax and structure.
 - Practiced adding, committing, and pushing Java files to GitHub.
 
-🔗 Code Link:  https://github.com/Saud0786/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Program-Prerequisites
+**🔗 Code Link:** https://github.com/Saud0786/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Program-Prerequisites
 
+---
 
 ## 🗓 Day 3 – Programming Elements in Java  
   **Date**: 18-Dec-2025
@@ -61,8 +59,10 @@ BridgeLabz-Training/
 - Solved practice problems based on programming elements.
 - Committed and pushed solutions to the repository.
 
-🔗 Code link: https://github.com/Saud0786/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements
-  
+
+**🔗 Code Link:** https://github.com/Saud0786/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements
+
+---  
 
 ## 🗓 Day 4 – Control Flow & Logical Constructs  
   **Date**: 19-Dec-2025
@@ -80,7 +80,10 @@ BridgeLabz-Training/
   - Factorial
   - Prime Number Check
 
-🔗 Code Link: https://github.com/Saud0786/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flows 
+
+**🔗 Code Link:** https://github.com/Saud0786/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flows 
+
+---
 
 ## 🗓 Day 5 – Arrays & Basic Problem Solving  
  **Date**: 20-Dec-2025
@@ -93,8 +96,10 @@ BridgeLabz-Training/
   - Finding missing elements
   - Basic array logic
 
-🔗 Code Link: https://github.com/Saud0786/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays
 
+**🔗 Code Link:** https://github.com/Saud0786/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays
+
+---
 
 ## 🗓 Day 6 – Methods & Basic Problem Solving  
  **Date**: 22-Dec-2025
@@ -104,9 +109,9 @@ BridgeLabz-Training/
   - Parameter passing
 - Practiced reusable logic using methods.
 
-🔗 Code Link (String): https://github.com/Saud0786/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/String
+**🔗 Code Link:** https://github.com/Saud0786/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/String
 
-
+---
 
 ## 🗓 Day 7 - String & Basic Problem Solving 
   **Date**: 23-Dec-2025
@@ -117,8 +122,11 @@ BridgeLabz-Training/
 - Implemented string manipulation programs.
   - Practiced UserDefined Methods, Using methods multiple times
   - Learned about Java.lang.Math Class
-🔗 Code Link (Method): https://github.com/Saud0786/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/methods 
+    
+**🔗 Code Link:** https://github.com/Saud0786/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/methods 
 
+### Week end
+---
 
 
 ## 🗓 Day 8 – Built-in Functions & Extra Practice  
@@ -132,4 +140,69 @@ BridgeLabz-Training/
   - Type conversion
 - Organized programs into appropriate folders.
 
-🔗 Code Link: https://github.com/Saud0786/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extra
+**🔗 Code Link:** https://github.com/Saud0786/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extra
+
+---
+
+
+### 🗓 Day 9 – Scenario Based Problems  
+**Date:** 26-Dec-2025
+1. Election Booth Manager
+2. Metro Smart Card Fare Deduction
+3. Raj’s Result Generator
+4. Coffee Price Calculator
+5. BMI Calculator
+Concepts: if-else, switch
+Loops: for, while
+Operators: ternary
+Input: Scanner
+Output: Console
+Status: Completed & pushed to GitHub
+
+**🔗 Code Link:** https://github.com/Saud0786/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase
+
+---
+
+
+### 🗓 Day 10 – Scenario Based Problems  
+**Date:** 29-Dec-2025  
+
+6. Parking Lot Gate System 🚗  
+7. The Number Guessing Game 🎲  
+8. Shopkeeper’s Discount Dashboard 🛍️  
+9. School Bus Attendance System 🚍  
+10. Phone Recharge Simulator 📱  
+
+**Concepts:** if-else, switch, Array, String  
+**Loops:** for, while, do-while  
+**Operators:** ternary  
+**Input:** Scanner  
+**Output:** Console  
+**Status:** Completed & pushed to GitHub  
+
+**🔗 Code Link:**  
+https://github.com/Saud0786/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase  
+
+---
+
+### 🗓 Day 11 – Scenario Based Problems  
+**Date:** 30-Dec-2025  
+
+11. Temperature Logger 🌡️  
+12. Train Reservation Queue 🚆  
+13. Sandeep’s Fitness Challenge Tracker 🏋️  
+14. Movie Ticket Booking App 🎬  
+15. Rohan’s Library Reminder App 📚  
+
+**Concepts:** if-else, switch, Array, String  
+**Loops:** for, while  
+**Operators:** ternary  
+**Input:** Scanner  
+**Output:** Console  
+**Status:** Completed & pushed to GitHub  
+
+**🔗 Code Link:** https://github.com/Saud0786/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase
+
+---
+
+
