@@ -208,4 +208,4 @@ java-oops-practice/
 - Followed Java naming conventions and clean coding practices  
 - Focused on readability, maintainability, and design principles
 
-  **🔗 Code link:** [Encapsulation, Polymorphism, Interfaces & Abstract Classes ](https://github.com/Saud0786/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/encapsulationpolymorphisminterfaceandabstract)  
+**🔗 Code link:** [Encapsulation, Polymorphism, Interfaces & Abstract Classes ](https://github.com/Saud0786/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/encapsulationpolymorphisminterfaceandabstract)  
