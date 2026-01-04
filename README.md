@@ -65,5 +65,23 @@
 
 **Code Link:** [Hashmap, Stack & Queue](https://github.com/Saud0786/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaPractice/src/com)
 
+## Section B
+## 📅 Day 6: Scenario Based Question solved  
+1. Hospital Patient Management System
+2. Vehicle Rental Application
+3. University Course Enrollment System
+4. E-Wallet Application
+5. Smart Home Automation System
+6. CabbyGo – A Ride-Hailing App in the Making
+7. MyBank – Managing Customer Accounts
+
+**Concepts:** Encapsulation, Polymorphism, Interfaces & Abstract Classes
+**Loops:** for, while  
+**Input:** Scanner  
+**Output:** Console  
+**Status:** Completed & pushed to GitHub  
+
+**Code link:**[Oops Scenario-based questions](https://github.com/Saud0786/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/oopsscenariocodebase/src/com)
+
 ---
 
