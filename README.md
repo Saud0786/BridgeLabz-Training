@@ -464,7 +464,8 @@ java-oops-practice/
 **Output:** Console  
 **Status:** Completed & pushed to GitHub  
 
-**Code link:**(Oops Scenario-based questions)[https://github.com/Saud0786/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/oopsscenariocodebase/src/com]
+**Code link:**[Oops Scenario-based questions](https://github.com/Saud0786/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/oopsscenariocodebase/src/com)
+
 
 ---
 ---
