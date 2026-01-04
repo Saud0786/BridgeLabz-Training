@@ -159,12 +159,13 @@ BridgeLabz-Training/
 3. Raj’s Result Generator
 4. Coffee Price Calculator
 5. BMI Calculator
-Concepts: if-else, switch
-Loops: for, while
-Operators: ternary
-Input: Scanner
-Output: Console
-Status: Completed & pushed to GitHub
+   
+**Concepts:** if-else, switch, Array, String  
+**Loops:** for, while, do-while  
+**Operators:** ternary  
+**Input:** Scanner  
+**Output:** Console  
+**Status:** Completed & pushed to GitHub  
 
 **🔗 Code Link:** [Scenario Based Problems](https://github.com/Saud0786/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
 
