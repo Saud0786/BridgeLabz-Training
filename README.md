@@ -7,7 +7,7 @@
 ##  Week 1: Git, GitHub & Java Programming Fundamentals
 
 ---
-
+## Section A
 ## 🗓 Day 1 – Git & GitHub Setup  
  **Date**: 16-Dec-2025
 
@@ -170,7 +170,7 @@ Status: Completed & pushed to GitHub
 
 ---
 
-
+## Section B
 ### 🗓 Day 10 – Scenario Based Problems  
 **Date:** 29-Dec-2025  
 
@@ -238,7 +238,7 @@ Status: Completed & pushed to GitHub
 ## 📅 Week 2: Java OOPS Practice (BridgeLabz)
 
 ---
-
+## Section A
 ### 🗓 Day 1 – Java OOPS Initial Setup  & Learn Class and Object
 **Date: 26-Dec-2025**
 
@@ -446,6 +446,25 @@ java-oops-practice/
 - Focused on readability, maintainability, and design principles
 
 **🔗 Code link:** [Encapsulation, Polymorphism, Interfaces & Abstract Classes ](https://github.com/Saud0786/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/encapsulationpolymorphisminterfaceandabstract)  
+
+
+## Section B
+## 📅 Day 6: Scenario Based Question solved  
+1. Hospital Patient Management System
+2. Vehicle Rental Application
+3. University Course Enrollment System
+4. E-Wallet Application
+5. Smart Home Automation System
+6. CabbyGo – A Ride-Hailing App in the Making
+7. MyBank – Managing Customer Accounts
+
+**Concepts:** Encapsulation, Polymorphism, Interfaces & Abstract Classes
+**Loops:** for, while  
+**Input:** Scanner  
+**Output:** Console  
+**Status:** Completed & pushed to GitHub  
+
+**Code link:**(Oops Scenario-based questions)[https://github.com/Saud0786/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/oopsscenariocodebase/src/com]
 
 ---
 ---
