@@ -22,8 +22,6 @@
 - Last node points back to the first node.
 - No NULL references in the list.
 - Useful in applications like circular queues and scheduling.
-  
----
 
 ### ✅ Practice Summary
 - Solved **multiple problems** based on Linked List concepts  
@@ -35,4 +33,37 @@
 - Focused on problem-solving and logical implementation  
 
 **Code Link:** [LinkedList and its types](https://github.com/Saud0786/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaPractice/src/com/linkedlist)
+
 ---
+
+## Day 2: Stack, Queue & Hashing  
+**📆 Date:** 4 January 2026  
+
+### 🔹 Topics Covered
+
+- **Stack**
+  - Linear data structure following LIFO (Last In First Out)
+  - Operations: push, pop, peek
+  - Used in function calls, expression evaluation, and undo operations
+
+- **Queue**
+  - Linear data structure following FIFO (First In First Out)
+  - Operations: enqueue, dequeue, front
+  - Used in scheduling, buffering, and resource management
+
+- **HashMap & Hashing Function**
+  - HashMap stores data in key–value pairs
+  - Hashing function converts keys into hash codes
+  - Enables fast insertion, deletion, and searching
+  - Handles collisions using techniques like chaining
+
+### ✅ Practice Summary
+- Solved **multiple problems** based on Stack and Queue operations  
+- Practiced usage of HashMap for efficient data storage and retrieval  
+- Understood working of hashing functions and collision handling  
+- Focused on time complexity and performance optimization  
+
+**Code Link:** [Hashmap, Stack & Queue](https://github.com/Saud0786/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaPractice/src/com)
+
+---
+
