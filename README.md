@@ -2,6 +2,7 @@
 
 ---
 
+## Section A
 
 ## 🗓 Day 1 – Git & GitHub Setup  
  **Date**: 16-Dec-2025
@@ -146,7 +147,7 @@ BridgeLabz-Training/
 
 ---
 
-
+## Section B
 ### 🗓 Day 9 – Scenario Based Problems  
 **Date:** 26-Dec-2025
 1. Election Booth Manager
