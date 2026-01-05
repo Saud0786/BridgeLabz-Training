@@ -1,4 +1,4 @@
-package com.linkedlist.singlelinkedlist;
+package com.linkedlist.singlelinkedlist.studentrecordmanagementsystem;
 
 class StudentNode {
     int rollNo;
