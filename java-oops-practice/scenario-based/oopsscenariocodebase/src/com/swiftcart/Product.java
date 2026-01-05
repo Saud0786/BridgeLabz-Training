@@ -5,6 +5,7 @@ public abstract class Product {
     protected double price;
     protected String category;
 
+    // Product Constructor
     public Product(String name, double price, String category) {
         this.name = name;
         this.price = price;

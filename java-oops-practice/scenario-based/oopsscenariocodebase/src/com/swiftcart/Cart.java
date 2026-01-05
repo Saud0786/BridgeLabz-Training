@@ -4,9 +4,10 @@ import java.util.ArrayList;
 public class Cart implements ICheckout {
 
     private ArrayList<Product> products;
-    private double totalPrice;   // Only Cart can update
+    // Only Cart can update
+    private double totalPrice;   
 
-    // Constructor: empty cart
+    // Constructor
     public Cart() {
         products = new ArrayList<>();
         totalPrice = 0;
@@ -20,26 +21,30 @@ public class Cart implements ICheckout {
 
     public void addProduct(Product product, int quantity) {
         products.add(product);
-        totalPrice += product.getPrice() * quantity; // Operator used
+        // Operator used
+        totalPrice += product.getPrice() * quantity; 
     }
 
+    // Calculate total amount
     private void calculateTotal() {
         for (Product p : products) {
             totalPrice += p.getPrice();
         }
     }
 
+    // apply coupon
     @Override
     public void applyDiscount(double coupon) {
         double productDiscount = 0;
 
         for (Product p : products) {
-            productDiscount += p.getDiscount(); // Polymorphism
+            productDiscount += p.getDiscount(); 
         }
 
         totalPrice = totalPrice - (productDiscount + coupon);
     }
 
+    // generate bill
     @Override
     public void generateBill() {
         System.out.println("---- SwiftCart Bill ----");

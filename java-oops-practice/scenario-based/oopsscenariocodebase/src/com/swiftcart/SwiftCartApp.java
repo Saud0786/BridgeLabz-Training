@@ -7,10 +7,10 @@ public class SwiftCartApp {
 
         Cart cart = new Cart();
 
-        cart.addProduct(milk, 2);   // price * quantity
+        cart.addProduct(milk, 2);   
         cart.addProduct(rice, 3);
 
-        cart.applyDiscount(20);     // coupon discount
+        cart.applyDiscount(20);     
         cart.generateBill();
     }
 }
