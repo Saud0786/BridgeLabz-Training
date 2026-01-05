@@ -65,23 +65,65 @@
 
 **Code Link:** [Hashmap, Stack & Queue](https://github.com/Saud0786/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaPractice/src/com)
 
-## Section B
-## 📅 Day 6: Scenario Based Question solved  
-1. Hospital Patient Management System
-2. Vehicle Rental Application
-3. University Course Enrollment System
-4. E-Wallet Application
-5. Smart Home Automation System
-6. CabbyGo – A Ride-Hailing App in the Making
-7. MyBank – Managing Customer Accounts
+---
 
-**Concepts:** Encapsulation, Polymorphism, Interfaces & Abstract Classes
-**Loops:** for, while  
-**Input:** Scanner  
-**Output:** Console  
-**Status:** Completed & pushed to GitHub  
+## Day 3: Sorting Algorithms  
+**📆 Date:** 5 January 2026  
 
-**Code link:**[Oops Scenario-based questions](https://github.com/Saud0786/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/oopsscenariocodebase/src/com)
+### 🔹 Topic Overview
+Sorting is a fundamental operation in computer science used to arrange elements in a specific order (ascending or descending).  
+Different sorting algorithms are used based on data size, performance needs, and memory constraints.
+
+### 🔹 Sorting Algorithms Covered
+
+- **Bubble Sort**
+  - Simple comparison-based sorting algorithm
+  - Repeatedly swaps adjacent elements if they are in the wrong order
+  - Suitable for small datasets and learning basics
+
+- **Insertion Sort**
+  - Builds the sorted list one element at a time
+  - Efficient for small or nearly sorted datasets
+
+- **Selection Sort**
+  - Repeatedly selects the minimum element and places it at the correct position
+  - Simple but inefficient for large datasets
+
+- **Merge Sort**
+  - Divide and Conquer algorithm
+  - Recursively divides the array and merges sorted subarrays
+  - Efficient and stable sorting technique
+
+- **Quick Sort**
+  - Divide and Conquer algorithm using a pivot element
+  - Very fast in average cases
+  - Widely used in real-world applications
+
+- **Heap Sort**
+  - Based on Binary Heap data structure
+  - Converts array into a heap and sorts elements
+  - Efficient and does not require extra memory
+
+- **Counting Sort**
+  - Non-comparison based sorting algorithm
+  - Works efficiently for small range integer values
+
+- **Radix Sort**
+  - Non-comparison based sorting technique
+  - Sorts numbers digit by digit
+  - Used for large datasets with fixed digit length
+
+- **Bucket Sort**
+  - Distributes elements into buckets and sorts them individually
+  - Effective when input is uniformly distributed
+
+### ✅ Practice Summary
+- Studied multiple sorting algorithms and their working principles  
+- Compared sorting techniques based on time and space complexity  
+- Understood use-cases for comparison and non-comparison based sorting  
+- Strengthened algorithmic thinking and problem-solving skills  
+
+**Code Link :** [Sorting algorithms](https://github.com/Saud0786/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaPractice/src/com/sorts)
 
 ---
 
