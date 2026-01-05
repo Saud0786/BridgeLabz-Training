@@ -221,6 +221,8 @@ java-oops-practice/
 5. Smart Home Automation System
 6. CabbyGo – A Ride-Hailing App in the Making
 7. MyBank – Managing Customer Accounts
+8. CampusConnect – College Information System
+9. SwiftCart – The Grocery Shopping App
 
 **Concepts:** Encapsulation, Polymorphism, Interfaces & Abstract Classes
 **Loops:** for, while  
