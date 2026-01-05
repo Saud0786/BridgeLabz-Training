@@ -209,3 +209,23 @@ java-oops-practice/
 - Focused on readability, maintainability, and design principles
 
 **🔗 Code link:** [Encapsulation, Polymorphism, Interfaces & Abstract Classes ](https://github.com/Saud0786/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/encapsulationpolymorphisminterfaceandabstract)  
+
+---
+
+## Section B
+## 📅 Day 7: Scenario Based Question solved  
+1. Hospital Patient Management System
+2. Vehicle Rental Application
+3. University Course Enrollment System
+4. E-Wallet Application
+5. Smart Home Automation System
+6. CabbyGo – A Ride-Hailing App in the Making
+7. MyBank – Managing Customer Accounts
+
+**Concepts:** Encapsulation, Polymorphism, Interfaces & Abstract Classes
+**Loops:** for, while  
+**Input:** Scanner  
+**Output:** Console  
+**Status:** Completed & pushed to GitHub  
+
+**Code link:**[Oops Scenario-based questions](https://github.com/Saud0786/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/oopsscenariocodebase/src/com)
