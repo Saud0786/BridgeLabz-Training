@@ -617,4 +617,43 @@ Different sorting algorithms are used based on data size, performance needs, and
 
 ---
 
+## 📅 Day 4: String Handling & File I/O in Java  
+**📆 Date:** 6 January 2026  
+
+### 🔹 Topics Covered
+
+#### 1️⃣ StringBuilder
+- Mutable sequence of characters
+- Faster than StringBuffer
+- Not thread-safe
+- Used when performance is important in single-threaded applications
+
+#### 2️⃣ StringBuffer
+- Mutable sequence of characters
+- Thread-safe (synchronized)
+- Slower than StringBuilder due to synchronization
+- Used in multi-threaded environments
+
+#### 3️⃣ FileReader
+- Used to read character data from files
+- Works with text files
+- Reads data character by character
+- Suitable for simple file reading tasks
+
+#### 4️⃣ InputStreamReader
+- Converts byte streams into character streams
+- Used to read data from InputStream sources
+- Supports character encoding
+- Commonly used with FileInputStream and System.in
+
+### ✅ Practice Summary
+- Compared StringBuilder and StringBuffer based on performance and thread safety  
+- Practiced reading text data from files using FileReader  
+- Understood byte-to-character stream conversion using InputStreamReader  
+- Focused on efficient string manipulation and file handling concepts  
+
+**Code Link :** [String Handling & File I/O in Java ](https://github.com/Saud0786/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaPractice/src/com)
+
+---
+
 
