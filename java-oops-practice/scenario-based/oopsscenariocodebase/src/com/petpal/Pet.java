@@ -30,7 +30,7 @@ public abstract class Pet implements IInteractable {
         updateMood();
     }
 
-    // 🔥 Automatic energy logic
+    // Automatic energy calculate
     private void autoEnergyCalculation() {
         if (hunger > 70) {
             energy -= 10;
@@ -40,7 +40,7 @@ public abstract class Pet implements IInteractable {
         energy = Math.max(0, Math.min(100, energy));
     }
 
-    // 🔹 Mood calculation
+    //  Mood calculation
     private void updateMood() {
         if (energy > 70 && hunger < 30) {
             mood = "Happy";
@@ -51,7 +51,7 @@ public abstract class Pet implements IInteractable {
         }
     }
 
-    // ✅ RESTORED METHOD
+    // show status
     public void showStatus() {
         System.out.println("\n--- Pet Status ---");
         System.out.println("Pet    : " + name + " (" + type + ")");
@@ -62,6 +62,7 @@ public abstract class Pet implements IInteractable {
         System.out.println("---------------------------");
     }
 
+    // for sound
     public abstract void makeSound();
 }
 

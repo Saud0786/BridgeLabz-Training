@@ -50,7 +50,5 @@ public class PetPalApp {
             }
 
         } while (choice != 0);
-
-        sc.close();
     }
 }
