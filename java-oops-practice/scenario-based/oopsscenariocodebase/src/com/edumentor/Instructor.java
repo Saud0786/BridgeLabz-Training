@@ -4,6 +4,7 @@ class Instructor extends User {
         super(name, email, userId);
     }
 
+    // Create course
     public void createCourse() {
         System.out.println("Course created by " + name);
     }

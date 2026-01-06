@@ -3,11 +3,10 @@ package com.edumentor;
 import java.util.Scanner;
 
 public class EduMentorApp {
-
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
-        Instructor instructor = new Instructor("Nanam", "namankumar0727@gmail.com", 27);
+        Instructor instructor = new Instructor("Naman", "namankumar0727@gmail.com", 27);
         instructor.createCourse();
         
         // Take Learner Details
@@ -36,19 +35,18 @@ public class EduMentorApp {
         // Start Quiz (user input inside Quiz class)
         quiz.startQuiz();
 
-        // 🔹 Calculate Result
+        // Calculate Result
         double percentage = quiz.calculatePercentage();
         learner.setPercentage(percentage);
 
         System.out.println("\nFinal Score Percentage: " + percentage + "%");
 
-        // 🔹 Certificate Decision
+        // Certificate Decision
         if (percentage >= 33) {
             learner.generateCertificate();
         } else {
-            System.out.println("❌ Sorry, you are not qualified for certificate.");
+            System.out.println(" Sorry, you are not qualified for certificate.");
         }
 
-        sc.close();
     }
 }

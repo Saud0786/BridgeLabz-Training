@@ -35,6 +35,7 @@ class Quiz {
     // Quiz Logic Method
     public void startQuiz() {
     	
+        System.out.println("--------- Quiz Started -----------");
         
         for (int i = 0; i < questions.length; i++) {
 
