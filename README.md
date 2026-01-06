@@ -231,3 +231,22 @@ java-oops-practice/
 **Status:** Completed & pushed to GitHub  
 
 **Code link:**[Oops Scenario-based questions](https://github.com/Saud0786/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/oopsscenariocodebase/src/com)
+
+
+---
+
+## 📅 Day 7: Scenario Based Question solved 
+10. EduMentor – Personalized Learning Platform"
+11. FitTrack – Your Personal Fitness Tracker
+12. PetPal – Virtual Pet Care App
+13. EventEase – Event Management Platform
+
+**Concepts:** Encapsulation, Polymorphism, Interfaces & Abstract Classes
+**Loops:** for, while  
+**Input:** Scanner  
+**Output:** Console  
+**Status:** Completed & pushed to GitHub  
+
+**Code link:**[Oops Scenario-based questions](https://github.com/Saud0786/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/oopsscenariocodebase/src/com)
+
+---
