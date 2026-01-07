@@ -170,21 +170,6 @@ BridgeLabz-Training/
 13. Sandeep’s Fitness Challenge Tracker 🏋️  
 14. Movie Ticket Booking App 🎬  
 15. Rohan’s Library Reminder App 📚  
-
-**Concepts:** if-else, switch, Array, String  
-**Loops:** for, while  
-**Operators:** ternary  
-**Input:** Scanner  
-**Output:** Console  
-**Status:** Completed & pushed to GitHub  
-
-**🔗 Code Link:** [Scenario Based Problems](https://github.com/Saud0786/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
-
----
-
-### 🗓 Day 12 – Scenario Based Problems  
-**Date:** 31-Dec-2025  
-
 16. Digital Watch Simulation ⏱️
 17. Online Quiz Application 🧠
 18. Currency Exchange Kiosk 💱
