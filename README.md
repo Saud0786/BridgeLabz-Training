@@ -166,5 +166,61 @@ Different sorting algorithms are used based on data size, performance needs, and
 
 ---
 
+## 📅 Day 5: Linear Search & Binary Search  
+**📆 Date: 7 January 2026**  
+
+### 📌 Overview
+This day focuses on understanding **Linear Search** and **Binary Search** in Java.
+
+### 🔹 Topics Covered
+- Linear Search (O(N)) – works on sorted & unsorted data  
+- Binary Search (O(log N)) – works only on sorted data  
+- Binary Search variations (first/last occurrence, peak element, rotated array, 2D matrix)
+
+### ⚙️ Comparison
+- Linear Search is simple but inefficient for large datasets  
+- Binary Search is faster and preferred for large, sorted data  
+
+### ✅ Practice Summary
+- Implemented Linear and Binary Search with user input  
+- Compared time complexity and performance  
+- Solved standard Binary Search problems  
+
+
+**Code Link :** [Linear Search & Binary Search  ](https://github.com/Saud0786/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaPractice/src/com/searching/)
+
+---
+
+
+## 📅 Day 6: General Algorithm Best Practices  
+**📆 Date: 8 January 2026**  
+
+### 📌 Overview
+This day focuses on **writing efficient algorithms** by optimizing **time and space complexity**.  
+The goal is to understand how better algorithmic choices improve performance, especially for large datasets.
+
+### 🔹 Topics Covered
+- Understanding **Time Complexity (Big-O)**
+- Understanding **Space Complexity**
+- Choosing optimal algorithms and data structures
+- Avoiding unnecessary loops and redundant computations
+- Importance of scalability and performance
+
+### ⚙️ Best Practices
+- Prefer **O(log N)** or **O(N)** solutions over **O(N²)**  
+- Avoid nested loops when possible  
+- Use appropriate data structures (HashSet, HashMap, etc.)  
+- Optimize space without compromising readability  
+- Always analyze worst-case complexity  
+
+### ✅ Practice Summary
+- Compared inefficient vs optimized approaches  
+- Analyzed algorithm performance using Big-O notation  
+- Improved existing solutions for better time and space usage  
+- Focused on interview-oriented optimization techniques  
+
+**Code Link :** [General Algorithm Best Practices](https://github.com/Saud0786/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaPractice/src/com/runtimeanalysis/)
+
+---
 
 
