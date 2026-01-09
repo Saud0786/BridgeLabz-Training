@@ -212,8 +212,8 @@ java-oops-practice/
 
 ---
 
-## Section B
-## 📅 Day 7: Scenario Based Question solved  
+# Section B
+##  Scenario Based Question solved  
 1. Hospital Patient Management System
 2. Vehicle Rental Application
 3. University Course Enrollment System
@@ -222,24 +222,14 @@ java-oops-practice/
 6. CabbyGo – A Ride-Hailing App in the Making
 7. MyBank – Managing Customer Accounts
 8. CampusConnect – College Information System
-9. SwiftCart – The Grocery Shopping App
-
-**Concepts:** Encapsulation, Polymorphism, Interfaces & Abstract Classes
-**Loops:** for, while  
-**Input:** Scanner  
-**Output:** Console  
-**Status:** Completed & pushed to GitHub  
-
-**Code link:**[Oops Scenario-based questions](https://github.com/Saud0786/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/oopsscenariocodebase/src/com)
-
-
----
-
-## 📅 Day 7: Scenario Based Question solved 
+9. SwiftCart – The Grocery Shopping App 
 10. EduMentor – Personalized Learning Platform"
 11. FitTrack – Your Personal Fitness Tracker
 12. PetPal – Virtual Pet Care App
 13. EventEase – Event Management Platform
+14. LoanBuddy – Loan Approval Automation
+15. BookBazaar – Digital Bookstore System
+16. ParkEase – Smart Parking Management System
 
 **Concepts:** Encapsulation, Polymorphism, Interfaces & Abstract Classes
 **Loops:** for, while  
