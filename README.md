@@ -2,6 +2,7 @@
 
 ---
 
+## Section A
 
 ## 🗓 Day 1 – Git & GitHub Setup  
  **Date**: 16-Dec-2025
@@ -147,70 +148,29 @@ BridgeLabz-Training/
 ---
 
 
-### 🗓 Day 9 – Scenario Based Problems  
-**Date:** 26-Dec-2025
+# Section B
+## Scenario Based Problems  
+
 1. Election Booth Manager
 2. Metro Smart Card Fare Deduction
 3. Raj’s Result Generator
 4. Coffee Price Calculator
 5. BMI Calculator
-Concepts: if-else, switch
-Loops: for, while
-Operators: ternary
-Input: Scanner
-Output: Console
-Status: Completed & pushed to GitHub
-
-**🔗 Code Link:** [Scenario Based Problems](https://github.com/Saud0786/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
-
----
-
-
-### 🗓 Day 10 – Scenario Based Problems  
-**Date:** 29-Dec-2025  
-
 6. Parking Lot Gate System 🚗  
 7. The Number Guessing Game 🎲  
 8. Shopkeeper’s Discount Dashboard 🛍️  
 9. School Bus Attendance System 🚍  
 10. Phone Recharge Simulator 📱  
-
-**Concepts:** if-else, switch, Array, String  
-**Loops:** for, while, do-while  
-**Operators:** ternary  
-**Input:** Scanner  
-**Output:** Console  
-**Status:** Completed & pushed to GitHub  
-
-**🔗 Code Link:**  [Scenario Based Problems](https://github.com/Saud0786/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
-
----
-
-### 🗓 Day 11 – Scenario Based Problems  
-**Date:** 30-Dec-2025  
-
 11. Temperature Logger 🌡️  
 12. Train Reservation Queue 🚆  
 13. Sandeep’s Fitness Challenge Tracker 🏋️  
 14. Movie Ticket Booking App 🎬  
 15. Rohan’s Library Reminder App 📚  
-
-**Concepts:** if-else, switch, Array, String  
-**Loops:** for, while  
-**Operators:** ternary  
-**Input:** Scanner  
-**Output:** Console  
-**Status:** Completed & pushed to GitHub  
-
-**🔗 Code Link:** [Scenario Based Problems](https://github.com/Saud0786/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
-
----
-
-### 🗓 Day 12 – Scenario Based Problems  
-**Date:** 31-Dec-2025  
-
 16. Digital Watch Simulation ⏱️
 17. Online Quiz Application 🧠
+18. Currency Exchange Kiosk 💱
+19. Bus Route Distance Tracker 🚌
+20. Festival Lucky Draw 🎉
 
 **Concepts:** if-else, switch, Array, String  
 **Loops:** for, while  
@@ -221,4 +181,3 @@ Status: Completed & pushed to GitHub
 **🔗 Code Link:** [Scenario Based Problems](https://github.com/Saud0786/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
 
 ---
-
