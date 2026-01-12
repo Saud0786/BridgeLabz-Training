@@ -230,6 +230,11 @@ java-oops-practice/
 14. LoanBuddy – Loan Approval Automation
 15. BookBazaar – Digital Bookstore System
 16. ParkEase – Smart Parking Management System
+17. MediStore – Pharmacy Inventory & Sales System
+18. TourMate – Travel Itinerary Planner
+19. Artify – Digital Art Marketplace
+20. FoodLoop – Restaurant Ordering System
+21. SkillForge – Online Learning Portal
 
 **Concepts:** Encapsulation, Polymorphism, Interfaces & Abstract Classes
 **Loops:** for, while  
