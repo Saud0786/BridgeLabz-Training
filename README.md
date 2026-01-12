@@ -405,7 +405,7 @@ java-oops-practice/
 
 
 # Section B
-##  Scenario Based Question solved  
+##  Oops Scenario Based Question solved  
 1. Hospital Patient Management System
 2. Vehicle Rental Application
 3. University Course Enrollment System
@@ -422,6 +422,11 @@ java-oops-practice/
 14. LoanBuddy – Loan Approval Automation
 15. BookBazaar – Digital Bookstore System
 16. ParkEase – Smart Parking Management System
+17. MediStore – Pharmacy Inventory & Sales System
+18. TourMate – Travel Itinerary Planner
+19. Artify – Digital Art Marketplace
+20. FoodLoop – Restaurant Ordering System
+21. SkillForge – Online Learning Portal
 
 **Concepts:** Encapsulation, Polymorphism, Interfaces & Abstract Classes
 **Loops:** for, while  
@@ -657,5 +662,24 @@ The goal is to understand how better algorithmic choices improve performance, es
 - Focused on interview-oriented optimization techniques  
 
 **Code Link :** [General Algorithm Best Practices](https://github.com/Saud0786/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaPractice/src/com/runtimeanalysis/)
+
+---
+
+# Section B
+##  Dsa Scenario Based Question solved  
+1. BookShelf – Library Organizer
+2. BrowserBuddy – Tab History Manager
+3. AmbulanceRoute – Emergency Patient Navigation
+4. CallCenter – Customer Queue Manager
+5. TrainCompanion – Compartment Navigation System
+6. TextEditor – Undo/Redo Functionality
+
+**Concepts:** Linkedlist, Stack, Queue, StringBuffer & StringBuilder
+**Loops:** for, while  
+**Input:** Scanner  
+**Output:** Console  
+**Status:** Completed & pushed to GitHub  
+
+**Code link:** [Dsa Scenario Based Question](https://github.com/Saud0786/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based/DsaScenarioCodebase/src/com)
 
 ---
