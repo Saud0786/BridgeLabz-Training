@@ -211,4 +211,4 @@ BridgeLabz-Training/
   9. Isomorphic String
   10. First unique Chracter
 
-**Code link :** [Leet-code questions] (https://github.com/Saud0786/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
+**Code link :** [Leet-code questions](https://github.com/Saud0786/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
