@@ -181,3 +181,34 @@ BridgeLabz-Training/
 **🔗 Code Link:** [Scenario Based Problems](https://github.com/Saud0786/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
 
 ---
+
+# Section C
+## leet-code Question
+ ### Array
+  #### Essay
+ 1. Plus One
+ 2. Remove Duplicate
+ 3. Remove duplicates from sorted array
+ 4. Two Sum
+ 5. Search in position
+ 6. Longest Common prefix
+ 7. Remove duplicate
+
+ #### Medium
+ 1. Next Permutation
+
+
+ ### String
+   #### Essay
+  1. Add binary
+  2. Anagram
+  3. Check Valid Parenthesis
+  4. Find Index of First Occurance
+  5. Roman to Integer
+  6. Reverse vowel of String
+  7. Longest common prefix
+  8. Length of last word
+  9. Isomorphic String
+  10. First unique Chracter
+
+**Code link :** [Leet-code questions](https://github.com/Saud0786/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
