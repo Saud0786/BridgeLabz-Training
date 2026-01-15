@@ -33,7 +33,7 @@ public class SmartShelf {
             String title = sc.nextLine();
             books[i] = new Book(title);
 
-            // Sort after each insertion (real-time behavior)
+            // Sort after each insertion 
             insertionSort(books, i + 1);
         }
 
