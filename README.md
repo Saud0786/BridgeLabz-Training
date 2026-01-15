@@ -187,6 +187,40 @@ BridgeLabz-Training/
 ---
 
 
+# Section C
+## leet-code Question
+ ### Array
+  #### Essay
+ 1. Plus One
+ 2. Remove Duplicate
+ 3. Remove duplicates from sorted array
+ 4. Two Sum
+ 5. Search in position
+ 6. Longest Common prefix
+ 7. Remove duplicate
+
+ #### Medium
+ 1. Next Permutation
+ 2. Jump Game
+ 3. Spiral matrix
+
+
+ ### String
+   #### Essay
+  1. Add binary
+  2. Anagram
+  3. Check Valid Parenthesis
+  4. Find Index of First Occurance
+  5. Roman to Integer
+  6. Reverse vowel of String
+  7. Longest common prefix
+  8. Length of last word
+  9. Isomorphic String
+  10. First unique Chracter
+
+**Code link :** [Leet-code questions](https://github.com/Saud0786/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
+
+---
 
 
 
@@ -427,6 +461,11 @@ java-oops-practice/
 19. Artify – Digital Art Marketplace
 20. FoodLoop – Restaurant Ordering System
 21. SkillForge – Online Learning Portal
+22. HomeNest – Smart Home Device Manager
+23. BudgetWise – Personal Finance Tracker
+24. GameBox – Mobile Game Distribution Platform
+25. PayXpress – Utility Bill Payment System
+26. Bird Sanctuary
 
 **Concepts:** Encapsulation, Polymorphism, Interfaces & Abstract Classes
 **Loops:** for, while  
@@ -673,8 +712,20 @@ The goal is to understand how better algorithmic choices improve performance, es
 4. CallCenter – Customer Queue Manager
 5. TrainCompanion – Compartment Navigation System
 6. TextEditor – Undo/Redo Functionality
+7. TrafficManager – Roundabout Vehicle Flow
+8. SmartCheckout – Supermarket Billing Queue
+9. ParcelTracker – Delivery Chain Management
+10. ExamProctor – Online Exam Review System
 
-**Concepts:** Linkedlist, Stack, Queue, StringBuffer & StringBuilder
+## Sorting Scenario-based questions
+1. ExamProctor – Online Exam Review System (Bubble Sort)
+2. SmartShelf – Real-Time Book Arrangement (Insertion Sort)
+3. ZipZipMart – Daily Sales Summary Report (Merge Sort)
+4. EventManager – Ticket Price Optimizer (Quick Sort)
+5. ExamCell – Student Rank Generator (Merge Sort)
+
+
+**Concepts:** Linkedlist, Stack, Queue, StringBuffer & StringBuilder, Sorting
 **Loops:** for, while  
 **Input:** Scanner  
 **Output:** Console  
