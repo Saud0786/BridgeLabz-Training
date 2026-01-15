@@ -196,6 +196,8 @@ BridgeLabz-Training/
 
  #### Medium
  1. Next Permutation
+ 2. Jump Game
+ 3. Spiral matrix
 
 
  ### String
