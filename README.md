@@ -223,4 +223,22 @@ The goal is to understand how better algorithmic choices improve performance, es
 
 ---
 
+# Section B
+##  Dsa Scenario Based Question solved  
+1. BookShelf – Library Organizer
+2. BrowserBuddy – Tab History Manager
+3. AmbulanceRoute – Emergency Patient Navigation
+4. CallCenter – Customer Queue Manager
+5. TrainCompanion – Compartment Navigation System
+6. TextEditor – Undo/Redo Functionality
+
+**Concepts:** Linkedlist, Stack, Queue, StringBuffer & StringBuilder
+**Loops:** for, while  
+**Input:** Scanner  
+**Output:** Console  
+**Status:** Completed & pushed to GitHub  
+
+**Code link:** [Dsa Scenario Based Question](https://github.com/Saud0786/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based/DsaScenarioCodebase/src/com)
+
+
 
