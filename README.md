@@ -723,6 +723,9 @@ The goal is to understand how better algorithmic choices improve performance, es
 3. ZipZipMart – Daily Sales Summary Report (Merge Sort)
 4. EventManager – Ticket Price Optimizer (Quick Sort)
 5. ExamCell – Student Rank Generator (Merge Sort)
+6. RoboWarehouse – Shelf Loading Robot (Insertion Sort)
+7. CinemaHouse – Movie Time Sorting (Bubble Sort)
+8. CropMonitor – Sensor Data Ordering (Quick Sort)
 
 
 **Concepts:** Linkedlist, Stack, Queue, StringBuffer & StringBuilder, Sorting
