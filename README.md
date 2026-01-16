@@ -231,8 +231,22 @@ The goal is to understand how better algorithmic choices improve performance, es
 4. CallCenter – Customer Queue Manager
 5. TrainCompanion – Compartment Navigation System
 6. TextEditor – Undo/Redo Functionality
+7. TrafficManager – Roundabout Vehicle Flow
+8. SmartCheckout – Supermarket Billing Queue
+9. ParcelTracker – Delivery Chain Management
+10. ExamProctor – Online Exam Review System
 
-**Concepts:** Linkedlist, Stack, Queue, StringBuffer & StringBuilder
+## Sorting Scenario-based questions
+1. ExamProctor – Online Exam Review System (Bubble Sort)
+2. SmartShelf – Real-Time Book Arrangement (Insertion Sort)
+3. ZipZipMart – Daily Sales Summary Report (Merge Sort)
+4. EventManager – Ticket Price Optimizer (Quick Sort)
+5. ExamCell – Student Rank Generator (Merge Sort)
+6. RoboWarehouse – Shelf Loading Robot (Insertion Sort)
+7. CinemaHouse – Movie Time Sorting (Bubble Sort)
+8. CropMonitor – Sensor Data Ordering (Quick Sort)
+
+**Concepts:** Linkedlist, Stack, Queue, StringBuffer & StringBuilder, Sorting
 **Loops:** for, while  
 **Input:** Scanner  
 **Output:** Console  
