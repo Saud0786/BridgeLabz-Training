@@ -726,6 +726,10 @@ The goal is to understand how better algorithmic choices improve performance, es
 6. RoboWarehouse – Shelf Loading Robot (Insertion Sort)
 7. CinemaHouse – Movie Time Sorting (Bubble Sort)
 8. CropMonitor – Sensor Data Ordering (Quick Sort)
+9. ArtExpo – Sort Artists by Registration Time (Insertion Sort)
+10. FleetManager – Vehicle Maintenance Scheduler (Merge Sort)
+11. IceCreamRush – Sorting Flavors by Popularity (Bubble Sort)
+12. SmartLibrary – Auto-Sort Borrowed Books (Insertion Sort)
 
 
 **Concepts:** Linkedlist, Stack, Queue, StringBuffer & StringBuilder, Sorting
