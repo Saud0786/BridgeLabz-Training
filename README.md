@@ -1,5 +1,6 @@
 # Week 4 – Java Collections & Streams
-## Day 1: Introduction to Generics
+## 📅Day 1: Introduction to Generics
+**Date:** 9 January 2026
 
 ### 🔹 Topics Covered
 - Introduction to Generics
@@ -30,7 +31,8 @@
 
 ---
 
-## Day 2: Collections Framework
+##📅 Day 2: Collections Framework
+**📆 Date:** 16 January 2026
 
 ### 🔹 Topics Covered
  - Overview of Collections Framework
