@@ -235,6 +235,11 @@ java-oops-practice/
 19. Artify – Digital Art Marketplace
 20. FoodLoop – Restaurant Ordering System
 21. SkillForge – Online Learning Portal
+22. HomeNest – Smart Home Device Manager
+23. BudgetWise – Personal Finance Tracker
+24. GameBox – Mobile Game Distribution Platform
+25. PayXpress – Utility Bill Payment System
+26. Bird Sanctuary
 
 **Concepts:** Encapsulation, Polymorphism, Interfaces & Abstract Classes
 **Loops:** for, while  
