@@ -33,15 +33,15 @@
 ## Day 2: Collections Framework
 
 ### 🔹 Topics Covered
--Overview of Collections Framework
--What is the Collections Framework?
--Hierarchy of Collections Framework
--List Interface and Implementing Classes
--Set Interface and Implementing Classes
--Queue and Deque Interfaces
--Map Interface and Its Implementations
--Comparison of Different Implementations
--Real-World Use Cases and Best Practices.
+ - Overview of Collections Framework
+ - What is the Collections Framework?
+ - Hierarchy of Collections Framework
+ - List Interface and Implementing Classes
+ - Set Interface and Implementing Classes
+ - Queue and Deque Interfaces
+ - Map Interface and Its Implementations
+ - Comparison of Different Implementations
+ - Real-World Use Cases and Best Practices.
 
 
 ## Questions Implemented
