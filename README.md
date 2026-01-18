@@ -213,4 +213,11 @@ BridgeLabz-Training/
   9. Isomorphic String
   10. First unique Chracter
 
+ ### Medium
+ 1. Integer to ]Roman
+ 2. String to Integer
+
+ ### Hard
+ 1. Number To Words
+  
 **Code link :** [Leet-code questions](https://github.com/Saud0786/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
