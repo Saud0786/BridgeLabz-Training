@@ -9,9 +9,9 @@ public class FitnessTrackerApp {
 			for(int j=0;j<arr.length-i-1;j++) {
 				// swap
 				if(arr[j].steps > arr[j+1].steps) {
-					int temp = arr[j].steps;
-					arr[j].steps = arr[j+1].steps;
-					arr[j+1].steps = temp;
+					User temp = arr[j];
+					arr[j] = arr[j+1];
+					arr[j+1] = temp;
 				}
 			}
 		}
