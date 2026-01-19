@@ -249,6 +249,9 @@ The goal is to understand how better algorithmic choices improve performance, es
 10. FleetManager – Vehicle Maintenance Scheduler (Merge Sort)
 11. IceCreamRush – Sorting Flavors by Popularity (Bubble Sort)
 12. SmartLibrary – Auto-Sort Borrowed Books (Insertion Sort)
+13. EduResults – Rank Sheet Generator (Merge Sort)
+14. FlashDealz – Product Sorting by Discount (Quick Sort)
+15. FitnessTracker – Daily Step Count Ranking (Bubble Sort)
 
 **Concepts:** Linkedlist, Stack, Queue, StringBuffer & StringBuilder, Sorting
 **Loops:** for, while  
