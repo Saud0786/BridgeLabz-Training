@@ -741,7 +741,6 @@ The goal is to understand how better algorithmic choices improve performance, es
 **Code link:** [Dsa Scenario Based Question](https://github.com/Saud0786/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based/DsaScenarioCodebase/src/com)
 
 ---
----
 
 # Week 4 – Java Collections & Streams
 ##📅 Day 1: Introduction to Generics
@@ -851,3 +850,151 @@ The goal is to understand how better algorithmic choices improve performance, es
 - **TreeMap** →  to store policies sorted by expiry date.  
     
 **Code Link:** [Collections - Questions](https://github.com/Saud0786/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionFramework/src/com/collections)
+
+---
+
+## 📅Day 3: Java Streams
+**📆 Date:** 19 January 2026
+
+### 🔹 Topics Covered
+ - Java I/O Streams
+ - Types of Streams
+ -- File Streams
+ -- Object Streams
+ - ByteArray Streams
+ - Buffered Streams
+ - Reader and Writer
+ - Key Considerations
+ - Best Practices
+
+### 1. File Streams
+File streams are used to read from and write to files.
+
+- **Byte-based**
+  - `FileInputStream`
+  - `FileOutputStream`
+- **Character-based**
+  - `FileReader`
+  - `FileWriter`
+
+**Use case:** Reading or writing raw data (files, images, binary data).
+
+### 2. Object Streams
+Object streams are used to write and read Java objects.
+
+- `ObjectOutputStream`
+- `ObjectInputStream`
+
+**Use case:** Saving and restoring object states (serialization and deserialization).
+
+### 3. ByteArray Streams
+These streams work with data stored in memory instead of files.
+
+- `ByteArrayInputStream`
+- `ByteArrayOutputStream`
+
+**Use case:** Converting data to byte arrays, in-memory processing, image manipulation.
+
+### 4. Buffered Streams
+Buffered streams improve performance by reducing the number of I/O operations.
+
+- `BufferedInputStream`
+- `BufferedOutputStream`
+- `BufferedReader`
+- `BufferedWriter`
+
+**Use case:** Efficient reading and writing of large files.
+
+### 5. Reader and Writer Streams
+These streams handle character-based data and support character encoding.
+
+- `Reader` (abstract class)
+- `Writer` (abstract class)
+- Common implementations:
+  - `FileReader`
+  - `FileWriter`
+  - `BufferedReader`
+  - `BufferedWriter`
+  - `InputStreamReader`
+  - `OutputStreamWriter`
+
+**Use case:** Reading and writing text data with proper encoding support.
+
+## Questions Implemented
+ 1.  File Handling - Read and Write a Text File
+ 2.  Buffered Streams - Efficient File Copy
+ 3.  Read User Input from Console
+ 4.  Serialization - Save and Retrieve an Object
+ 5.  ByteArray Stream - Convert Image to ByteArray
+ 6.  Filter Streams - Convert Uppercase to Lowercase
+ 7.   Data Streams - Store and Retrieve Primitive Data
+ 8.   Piped Streams - Inter-Thread Communication
+ 9.   Read a Large File Line by Line
+ 10.   Count Words in a File
+
+**Code Link:** [Java I/O & Streams](https://github.com/Saud0786/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionFramework/src/com/javastreams)
+
+---
+
+
+## 📅 Day 4: Exception Handling in Java
+**📆 Date:** 20 January 2026
+
+### 🔹 Topics Covered
+- Exceptions  
+- Types of Exceptions  
+- Checked Exceptions  
+- Unchecked Exceptions  
+- Custom Exceptions  
+- Handling Exceptions  
+- try-catch blocks  
+- try-catch-finally blocks  
+- try-with-resources statement  
+- throws clause  
+- throw statement  
+- Creating Custom Exceptions  
+- Extending Exception Class  
+- Defining Constructors  
+
+
+## 1. Exceptions
+An exception is an event that disrupts the normal flow of program execution.
+
+## 2. Types of Exceptions
+
+### Checked Exceptions
+- Compile-time checked  
+- Must be handled or declared  
+
+### Unchecked Exceptions
+- Runtime exceptions  
+- Extend `RuntimeException`  
+
+## 3. Exception Handling Mechanisms
+- try-catch  
+- try-catch-finally  
+- try-with-resources  
+- throw  
+- throws  
+
+## 4. Custom Exceptions
+User-defined exceptions created by extending the `Exception` class.
+
+## Questions Implemented
+
+1. Checked Exception (Compile-time Exception)  
+2. Unchecked Exception (Runtime Exception)  
+3. Custom Exception (User-defined Exception)  
+4. Multiple Catch Blocks  
+5. try-with-resources (Auto-closing Resources)  
+6. throw vs. throws (Exception Propagation)  
+7. finally Block Execution 
+8. Exception Propagation in Methods  
+9.  Nested try-catch Block  
+10. Bank Transaction System  (Checked + Custom Exception)
+
+**Code Link:**[Exception Handling in Java](https://github.com/Saud0786/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionFramework/src/com/exceptions)
+
+---
+
+
