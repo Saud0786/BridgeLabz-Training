@@ -31,7 +31,7 @@
 
 ---
 
-##📅 Day 2: Collections Framework
+## 📅Day 2: Collections Framework
 **📆 Date:** 16 January 2026
 
 ### 🔹 Topics Covered
@@ -106,3 +106,86 @@
 - **TreeMap** →  to store policies sorted by expiry date.  
     
 **Code Link:** [Collections - Questions](https://github.com/Saud0786/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionFramework/src/com/collections)
+
+---
+
+## 📅Day 3: Java Streams
+**📆 Date:** 19 January 2026
+
+### 🔹 Topics Covered
+ - Java I/O Streams
+ - Types of Streams
+ -- File Streams
+ -- Object Streams
+ - ByteArray Streams
+ - Buffered Streams
+ - Reader and Writer
+ - Key Considerations
+ - Best Practices
+
+### 1. File Streams
+File streams are used to read from and write to files.
+
+- **Byte-based**
+  - `FileInputStream`
+  - `FileOutputStream`
+- **Character-based**
+  - `FileReader`
+  - `FileWriter`
+
+**Use case:** Reading or writing raw data (files, images, binary data).
+
+### 2. Object Streams
+Object streams are used to write and read Java objects.
+
+- `ObjectOutputStream`
+- `ObjectInputStream`
+
+**Use case:** Saving and restoring object states (serialization and deserialization).
+
+### 3. ByteArray Streams
+These streams work with data stored in memory instead of files.
+
+- `ByteArrayInputStream`
+- `ByteArrayOutputStream`
+
+**Use case:** Converting data to byte arrays, in-memory processing, image manipulation.
+
+### 4. Buffered Streams
+Buffered streams improve performance by reducing the number of I/O operations.
+
+- `BufferedInputStream`
+- `BufferedOutputStream`
+- `BufferedReader`
+- `BufferedWriter`
+
+**Use case:** Efficient reading and writing of large files.
+
+### 5. Reader and Writer Streams
+These streams handle character-based data and support character encoding.
+
+- `Reader` (abstract class)
+- `Writer` (abstract class)
+- Common implementations:
+  - `FileReader`
+  - `FileWriter`
+  - `BufferedReader`
+  - `BufferedWriter`
+  - `InputStreamReader`
+  - `OutputStreamWriter`
+
+**Use case:** Reading and writing text data with proper encoding support.
+
+## Questions Implemented
+ 1.  File Handling - Read and Write a Text File
+ 2.  Buffered Streams - Efficient File Copy
+ 3.  Read User Input from Console
+ 4.  Serialization - Save and Retrieve an Object
+ 5.  ByteArray Stream - Convert Image to ByteArray
+ 6.  Filter Streams - Convert Uppercase to Lowercase
+ 7.   Data Streams - Store and Retrieve Primitive Data
+ 8.   Piped Streams - Inter-Thread Communication
+ 9.   Read a Large File Line by Line
+ 10.   Count Words in a File
+
+**Code Link:** [Java I/O & Streams](https://github.com/Saud0786/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionFramework/src/com/javastreams)
