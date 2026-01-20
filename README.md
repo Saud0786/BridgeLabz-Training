@@ -189,3 +189,67 @@ These streams handle character-based data and support character encoding.
  10.   Count Words in a File
 
 **Code Link:** [Java I/O & Streams](https://github.com/Saud0786/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionFramework/src/com/javastreams)
+
+---
+
+
+## 📅 Day 4: Exception Handling in Java
+**📆 Date:** 20 January 2026
+
+### 🔹 Topics Covered
+- Exceptions  
+- Types of Exceptions  
+- Checked Exceptions  
+- Unchecked Exceptions  
+- Custom Exceptions  
+- Handling Exceptions  
+- try-catch blocks  
+- try-catch-finally blocks  
+- try-with-resources statement  
+- throws clause  
+- throw statement  
+- Creating Custom Exceptions  
+- Extending Exception Class  
+- Defining Constructors  
+
+
+## 1. Exceptions
+An exception is an event that disrupts the normal flow of program execution.
+
+## 2. Types of Exceptions
+
+### Checked Exceptions
+- Compile-time checked  
+- Must be handled or declared  
+
+### Unchecked Exceptions
+- Runtime exceptions  
+- Extend `RuntimeException`  
+
+## 3. Exception Handling Mechanisms
+- try-catch  
+- try-catch-finally  
+- try-with-resources  
+- throw  
+- throws  
+
+## 4. Custom Exceptions
+User-defined exceptions created by extending the `Exception` class.
+
+## Questions Implemented
+
+1. Checked Exception (Compile-time Exception)  
+2. Unchecked Exception (Runtime Exception)  
+3. Custom Exception (User-defined Exception)  
+4. Multiple Catch Blocks  
+5. try-with-resources (Auto-closing Resources)  
+6. throw vs. throws (Exception Propagation)  
+7. finally Block Execution 
+8. Exception Propagation in Methods  
+9.  Nested try-catch Block  
+10. Bank Transaction System  (Checked + Custom Exception)
+
+**Code Link:**[Exception Handling in Java](https://github.com/Saud0786/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionFramework/src/com/exceptions)
+
+---
+
