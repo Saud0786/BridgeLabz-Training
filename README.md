@@ -255,6 +255,8 @@ The goal is to understand how better algorithmic choices improve performance, es
 16. MovieTime – Theater Show Listings (Insertion Sort)
 17. FoodFest – Sorting Stalls by Customer Footfall (Merge Sort)
 18. GamerZone – High Score Ranking System (Quick Sort)
+19. TailorShop – Sorting Orders by Delivery Deadline (Insertion Sort)
+20. MedWarehouse – Sorting Medicines by Expiry (Merge Sort)
 
 **Concepts:** Linkedlist, Stack, Queue, StringBuffer & StringBuilder, Sorting
 **Loops:** for, while  
