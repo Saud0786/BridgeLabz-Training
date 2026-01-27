@@ -1,6 +1,6 @@
 ## 📅 Week 5 – Day 1: Working with CSV Files in Java
+
  **📅Date:** 23 january 2026
----
 
 ## 🔹 Topics Covered
 - Introduction to CSV  
@@ -59,6 +59,102 @@ Checks include column count, data type validation, range checks, and regex-based
 15. Encrypt and Decrypt CSV Data  
 
 
-** Code link:** [Working with CSV Files in Java]([https://github.com/Saud0786/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-codebase/JavaIOStreams/src/com/csvdatahandling])
+**Code link:** [Working with CSV Files in Java](https://github.com/Saud0786/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-codebase/JavaIOStreams/src/com/csvdatahandling)
 
 ---
+
+
+## 📅 Day 2: Working with JSON Data in Java
+**📅 Date** 24 january 2026
+
+---
+
+## 🔹 Topics Covered
+- Introduction to JSON  
+- Reading JSON Data  
+- Writing JSON Data  
+- Parsing JSON Data  
+- JSON Schema Validation  
+
+---
+
+## 1. Introduction to JSON
+
+JSON (JavaScript Object Notation) is a **lightweight data-interchange format** that is easy to read and write.  
+It represents data in **key–value pairs** and supports nested structures.
+
+**Example:**
+```json
+{
+  "id": 101,
+  "name": "Ravi",
+  "marks": 85
+}
+```
+
+## 2. Reading JSON Data
+
+JSON data can be read from files or APIs using:
+- File I/O streams  
+- JSON libraries such as **Jackson** or **Gson**
+
+### Key Points
+- Read the file as text  
+- Convert JSON text into Java objects  
+- Handle malformed JSON using exception handling  
+
+
+## 3. Writing JSON Data
+
+JSON data is written by:
+- Converting Java objects into JSON format  
+- Saving the JSON output to a file  
+
+### Key Points
+- Maintain proper JSON structure  
+- Use indentation for better readability  
+- Handle file writing exceptions properly  
+
+## 4. Parsing JSON Data
+
+Parsing JSON means **extracting values from JSON objects and arrays**.
+
+### Common Tasks
+- Read values using keys  
+- Iterate through JSON arrays  
+- Handle nested JSON objects  
+
+## 5. JSON Schema Validation
+
+JSON Schema is used to **validate the structure and data types** of JSON data.
+
+### Validation Ensures
+- Required fields are present  
+- Data types are correct  
+- Values follow defined rules  
+
+## 📌 Practice Problems on JSON
+
+1. Create a JSON Object for a Student  
+2. Convert a Java Object to JSON  
+3. Read a JSON File and Extract Specific Fields  
+4. Merge Two JSON Objects  
+5. Validate JSON Structure Using Jackson  
+6. Convert a List of Java Objects into a JSON Array  
+7. Filter JSON Records Based on Age  
+
+## 🛠️ Hands-on Practice Problems
+
+8. Read a JSON File and Print All Keys and Values  
+9. Convert a List of Java Objects into a JSON Array  
+10. Filter JSON Data for Users Older Than 25  
+11. Validate Email Field Using JSON Schema  
+12. Merge Two JSON Files into One  
+13. Convert JSON to XML Format  
+14. Convert CSV Data into JSON  
+15. Generate a JSON Report from Database Records
+
+**Code link:** [Working with JSON Data in Java](https://github.com/Saud0786/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-codebase/JavaIOStreams/src/com/json_handling)
+
+---
+
