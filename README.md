@@ -253,3 +253,135 @@ User-defined exceptions created by extending the `Exception` class.
 
 ---
 
+
+## 📅 Day 5: Java Regex & JUnit Framework
+**📆 Date:** 21 January 2026
+
+## 🔹 Topics Covered
+
+### Java Regular Expressions (Regex)
+- Regex  
+- MetaCharacters  
+- Quantifiers  
+- Common Regex Patterns  
+- Email Validation  
+- Password Strength Validation  
+- Phone Number Format  
+
+### Java Regex API
+- Pattern Class  
+- Matcher Class  
+- Regex Methods  
+  - find()  
+  - matches()  
+  - replaceAll()  
+
+### JUnit Framework
+- Introduction to JUnit Framework  
+- JUnit Annotations  
+- Writing Test Cases  
+- Structure of a Test Class  
+- Assertions  
+
+---
+
+## 1. Regular Expressions (Regex)
+
+A **Regular Expression (Regex)** is a pattern used to **match, search, and manipulate text**.
+
+### Uses of Regex:
+- Input validation  
+- Searching strings  
+- Extracting data  
+- Replacing text  
+
+---
+
+## 2. MetaCharacters
+
+MetaCharacters have **special meaning** in regex.
+
+| MetaCharacter | Description |
+|---------------|------------|
+| `.` | Matches any single character |
+| `^` | Beginning of string |
+| `$` | End of string |
+| `[]` | Character set |
+| `()` | Grouping |
+| `|` | OR operator |
+| `\` | Escape character |
+
+---
+
+## 3. Quantifiers
+
+Quantifiers define **how many times** a character or group occurs.
+
+| Quantifier | Meaning |
+|-----------|--------|
+| `*` | 0 or more times |
+| `+` | 1 or more times |
+| `?` | 0 or 1 time |
+| `{n}` | Exactly n times |
+| `{n,}` | At least n times |
+| `{n,m}` | Between n and m times |
+
+---
+
+## 4. Common Regex Patterns
+
+### Email Validation
+```regex
+^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$
+```
+
+## 📝 Regex Practice Questions
+
+1. Validate a Username  
+2. Validate a License Plate Number  
+3. Validate a Hex Color Code  
+4. Extract All Email Addresses from a Text  
+5. Extract All Capitalized Words from a Sentence  
+6. Extract Dates in dd/mm/yyyy Format  
+7. Extract Links from a Web Page  
+8. Replace Multiple Spaces with a Single Space  
+9. Censor Bad Words in a Sentence  
+10. Validate an IP Address  
+11. Validate a Credit Card Number  
+12. Extract Programming Language Names from a Text  
+13. Extract Currency Values from a Text  
+14. Find Repeating Words in a Sentence  
+15. Validate a Social Security Number (SSN)
+
+
+## 📝 JUnit Practice Questions
+
+1. Basic JUnit Test: Testing a Calculator Class  
+2. Testing String Utility Methods  
+3. Testing List Operations  
+4. Testing Exception Handling  
+5. Testing @BeforeEach and @AfterEach Annotations  
+6. Testing Parameterized Tests  
+7. Performance Testing Using @Timeout  
+8. Testing File Handling Methods  
+
+## 📝 Advanced JUnit Practice Questions
+
+9. Testing Banking Transactions  
+10. Testing Password Strength Validator  
+11. Testing Temperature Converter  
+12. Testing Date Formatter  
+13. Testing User Registration  
+
+
+**Code Link:** [Java Regex](https://github.com/Saud0786/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionFramework/src/com/regex)
+
+**Code Link:** [JUnit Framework](https://github.com/Saud0786/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionFramework/src/com/JUnit)
+
+
+---
+
+
+
+
+
