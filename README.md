@@ -1328,3 +1328,49 @@ Use reflection to retrieve and display all applied annotation instances.
 
 ---
 
+## Section B - Scenario - based question
+
+## 📝 Java Practice Projects
+
+### 1. ResumeAnalyzer – Smart Resume Filtering System  
+Reads resume files from a folder and extracts contact details and keywords using Regex.  
+Stores and sorts candidate data using Java Collections while handling invalid files with exceptions.
+
+### 2. TravelLog – Trip Organizer for Backpackers  
+Stores travel entries as serialized objects and reads them back from files for analysis.  
+Uses Collections and Regex to summarize trips, visited cities, countries, and travel frequency.
+
+### 3. FeedbackGuru – Smart Survey Analyzer  
+Processes customer feedback text files and extracts ratings using Regex patterns.  
+Groups feedback into categories using Maps and handles invalid data gracefully.
+
+### 4. CodeRepoCleaner – Java File Scanner and Organizer  
+Scans Java source files to detect formatting and naming issues using Regex.  
+Organizes files into categories using Collections and filters them using Java Streams.
+
+### 5. ExamScanner – Digital Answer Sheet Validator  
+Reads CSV-based answer sheets and compares responses with an answer key.  
+Calculates scores using Maps and validates input formats using Regex.
+
+### 6. MedInventory – Smart Hospital Inventory Tracker  
+Processes CSV-based medical inventory files and detects expired or duplicate items using Regex and Collections.  
+Uses Generics and custom exceptions to manage supply categories and handle critically low stock.
+
+### 7. ChatLogParser – Messaging Pattern Analyzer  
+Parses employee chat logs to extract timestamps, users, and messages using Regex.  
+Groups and filters messages using Maps and TreeMap with support for generic filtering rules.
+
+### 8. SongVault – Personal Music Library Manager  
+Reads structured song files and extracts metadata using Regex and I/O Streams.  
+Organizes songs using Lists, Maps, Sets, and Streams with support for multiple media types.
+
+### 9. ExamResultUploader – Bulk Marks Processing  
+Validates and processes CSV-based exam result files using Regex and BufferedReader.  
+Calculates subject-wise toppers using Maps and PriorityQueue with custom exception handling.
+
+### 10. DealTracker – E-Commerce Discount Validator  
+Parses deal files to validate discount details and expiry dates using Regex and Date APIs.  
+Stores and sorts valid deals using Maps, Sets, and Comparators with generic promotion support.
+
+**Code link:** [Scenario-based-questions]()
+
