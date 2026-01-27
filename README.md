@@ -383,5 +383,196 @@ Quantifiers define **how many times** a character or group occurs.
 
 
 
+## 📅 Day 06: Annotations & Reflection in Java
+**📆 Date:** 22 January 2026  
+
+---
+
+## 🔹 Topics Covered
+
+### Annotations
+- Introduction to Annotations  
+- Common Built-in Annotations  
+- Creating Custom Annotations  
+- Advanced Custom Annotations  
+- Real-World Use Cases  
+- Annotation Processing Tools  
+
+### Reflection
+- Understanding Reflection  
+- Using Reflection in Java  
+- Annotations and Reflection  
+
+
+## 1. Introduction to Annotations
+
+**Annotations** are special metadata provided to Java code that give additional information to the compiler, runtime, or frameworks.
+
+### Uses of Annotations:
+- Code documentation  
+- Compile-time checks  
+- Runtime processing  
+- Configuration in frameworks (Spring, Hibernate, JUnit)  
+
+
+## 2. Common Built-in Annotations
+
+Some commonly used built-in Java annotations:
+
+| Annotation | Description |
+|-----------|-------------|
+| `@Override` | Ensures method overrides parent method |
+| `@Deprecated` | Marks method or class as deprecated |
+| `@SuppressWarnings` | Suppresses compiler warnings |
+| `@FunctionalInterface` | Ensures interface has only one abstract method |
+| `@SafeVarargs` | Suppresses warnings for varargs |
+
+
+## 3. Creating Custom Annotations
+
+Custom annotations are created using the `@interface` keyword.
+
+### Key Points:
+- Can contain elements (methods)
+- Can have default values
+- Used to add custom metadata
+
+
+## 4. Advanced Custom Annotations
+
+Advanced annotations involve:
+- Retention policies  
+- Target elements  
+- Repeatable annotations  
+
+### Retention Policies:
+- `SOURCE` – Discarded during compilation  
+- `CLASS` – Stored in bytecode, not available at runtime  
+- `RUNTIME` – Available at runtime using reflection  
+
+### Target Elements:
+- `METHOD`
+- `CLASS`
+- `FIELD`
+- `CONSTRUCTOR`
+- `PARAMETER`
+
+
+
+## 5. Real-World Use Cases of Annotations
+
+Annotations are widely used in:
+- Spring Framework (`@Component`, `@Autowired`)
+- Hibernate (`@Entity`, `@Table`)
+- JUnit (`@Test`, `@BeforeEach`)
+- REST APIs (`@GetMapping`, `@PostMapping`)
+
+
+## 6. Annotation Processing Tools
+
+Annotation processing is used to:
+- Analyze annotations at compile-time
+- Generate source files
+- Perform validations
+
+Common tools:
+- Java Annotation Processing API (APT)
+- Lombok
+- MapStruct
+
+
+## 7. Reflection
+
+**Reflection** allows Java programs to:
+- Inspect classes, methods, fields at runtime
+- Create objects dynamically
+- Invoke methods dynamically
+
+
+## 8. Understanding Reflection
+
+Reflection is part of the `java.lang.reflect` package.
+
+### Key Reflection Classes:
+- `Class`
+- `Method`
+- `Field`
+- `Constructor`
+
+
+## 9. Using Reflection in Java
+
+Reflection is used to:
+- Access private members
+- Load classes dynamically
+- Build frameworks and libraries
+
+⚠️ **Note:** Reflection can impact performance and security if misused.
+
+
+## 10. Annotations and Reflection
+
+Annotations are often accessed using reflection to:
+- Read annotation values at runtime
+- Apply logic based on metadata
+- Build annotation-driven frameworks
+
+Example use cases:
+- Dependency Injection
+- ORM mapping
+- Test execution frameworks
+
+## 📝 Practice Problems on Reflection in Java
+
+### 🔹 Basic Level
+1. Get Class Information Using Reflection  
+2. Access Private Field Using Reflection  
+3. Invoke Private Method Using Reflection  
+4. Dynamically Create Objects Using Reflection  
+
+### 🔹 Intermediate Level
+5. Dynamic Method Invocation Using Reflection  
+6. Retrieve Annotations at Runtime Using Reflection  
+7. Access and Modify Static Fields Using Reflection  
+
+### 🔹 Advanced Level
+8. Create a Custom Object Mapper Using Reflection  
+9. Generate JSON Representation Using Reflection  
+10. Custom Logging Proxy Using Reflection  
+11. Dependency Injection Using Reflection  
+12. Method Execution Timing Using Reflection  
+
+
+## 📝 Practice Problems for Custom Annotations
+
+### 1️⃣ Use @Override Correctly  
+Create a parent class and override a method in a child class using `@Override`.  
+Verify correct method overriding by invoking the method from the child class.
+
+### 2️⃣ Use @Deprecated to Mark an Old Method  
+Mark an outdated method using `@Deprecated` and introduce a replacement method.  
+Observe compiler warnings when the deprecated method is used.
+
+
+### 3️⃣ Suppress Unchecked Warnings  
+Create a non-generic collection and suppress compiler warnings using `@SuppressWarnings`.  
+Ensure the code compiles without showing unchecked operation warnings.
+
+
+### 4️⃣ Create a Custom Annotation and Use It  
+Define a custom annotation with multiple attributes and apply it to a method.  
+Retrieve annotation values at runtime using the Reflection API.
+
+
+### 5️⃣ Create and Use a Repeatable Annotation  
+Create a repeatable custom annotation and apply it multiple times on a method.  
+Use reflection to retrieve and display all applied annotation instances.
+
+
+**Code link:** [Annotation Concepts and question](https://github.com/Saud0786/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionFramework/src/com/annotation)
+
+**Code link:** [Reflection in Java and question](https://github.com/Saud0786/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionFramework/src/com/reflection)
+
+---
 
 
