@@ -622,6 +622,6 @@ Calculates subject-wise toppers using Maps and PriorityQueue with custom excepti
 Parses deal files to validate discount details and expiry dates using Regex and Date APIs.  
 Stores and sorts valid deals using Maps, Sets, and Comparators with generic promotion support.
 
-**Code link:** [Scenario-based-questions]()
+**Code link:** [Scenario-based-questions](https://github.com/Saud0786/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based/collectionsScenarioQuestions/src/com)
 
 
