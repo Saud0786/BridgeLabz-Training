@@ -1,4 +1,4 @@
-package com.referencemethod.hospital_Id_printing;
+package com.lambdaexpressions.referencemethod.hospital_Id_printing;
 import java.util.*;
 
 public class Hospital {
