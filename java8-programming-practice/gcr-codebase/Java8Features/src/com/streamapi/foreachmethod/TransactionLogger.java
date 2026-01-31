@@ -1,4 +1,4 @@
-package com.referencemethod.foreachmethod;
+package com.streamapi.foreachmethod;
 import java.time.LocalDateTime;
 import java.util.*;
 
