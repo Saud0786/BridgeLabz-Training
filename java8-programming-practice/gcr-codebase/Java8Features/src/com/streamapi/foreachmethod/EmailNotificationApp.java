@@ -14,9 +14,9 @@ public class EmailNotificationApp {
         // Send notification to each email
         emails.forEach(email -> sendEmailNotification(email));
     }
-
     private static void sendEmailNotification(String email) {
         System.out.println("Sending notification email to: " + email);
         // Actual email-sending logic would go here
     }
 }
+
