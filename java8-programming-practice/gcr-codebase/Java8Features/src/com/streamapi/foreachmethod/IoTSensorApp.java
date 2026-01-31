@@ -10,8 +10,7 @@ public class IoTSensorApp {
             30.1,
             27.8,
             15.9,
-            35.6
-        );
+            35.6);
 
         double threshold = 25.0;
 
@@ -22,3 +21,4 @@ public class IoTSensorApp {
                       );
     }
 }
+
