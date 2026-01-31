@@ -7,12 +7,9 @@ public interface TransportService {
     double getFare();
     String getDepartureTime();
 
-    // Default method (shared behavior)
+    // Default method 
     default void printServiceDetails() {
-        System.out.println(
-            getServiceName() + " | Route: " + getRoute() +
-            " | Fare: " + getFare() +
-            " | Departure: " + getDepartureTime()
-        );
+        System.out.println( getServiceName() + " | Route: " + getRoute() +
+                            " | Fare: " + getFare() + " | Departure: " + getDepartureTime());
     }
 }
