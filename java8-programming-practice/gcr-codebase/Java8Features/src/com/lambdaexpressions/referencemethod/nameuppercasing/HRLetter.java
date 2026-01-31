@@ -1,4 +1,4 @@
-package com.referencemethod.nameuppercasing;
+package com.lambdaexpressions.referencemethod.nameuppercasing;
 import java.util.*;
 import java.util.stream.Collectors;
 
