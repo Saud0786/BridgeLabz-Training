@@ -1,4 +1,4 @@
-package com.referencemethod.invoiceobject;
+package com.lambdaexpressions.referencemethod.invoiceobject;
 import java.util.*;
 import java.util.stream.Collectors;
 

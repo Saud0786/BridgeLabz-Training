@@ -1,4 +1,4 @@
-package com.referencemethod.invoiceobject;
+package com.lambdaexpressions.referencemethod.invoiceobject;
 
 class Invoice {
     int transactionId;
