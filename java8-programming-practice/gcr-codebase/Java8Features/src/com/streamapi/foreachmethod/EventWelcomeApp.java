@@ -1,4 +1,4 @@
-package com.referencemethod.foreachmethod;
+package com.streamapi.foreachmethod;
 import java.util.*;
 
 public class EventWelcomeApp {
