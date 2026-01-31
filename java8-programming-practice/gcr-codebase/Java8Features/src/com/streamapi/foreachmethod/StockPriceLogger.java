@@ -11,7 +11,6 @@ public class StockPriceLogger {
             1025.60,
             1040.10
         );
-
         // Display stock price updates
         stockPrices.stream()
                    .forEach(price ->
@@ -19,3 +18,4 @@ public class StockPriceLogger {
                    );
     }
 }
+

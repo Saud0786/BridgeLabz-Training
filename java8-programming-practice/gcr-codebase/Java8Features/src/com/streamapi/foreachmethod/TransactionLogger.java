@@ -10,7 +10,6 @@ public class TransactionLogger {
             "TXN1002",
             "TXN1003"
         );
-
         transactionIds.forEach(id ->
             System.out.println(
                 LocalDateTime.now() + " - Transaction: " + id
@@ -18,3 +17,4 @@ public class TransactionLogger {
         );
     }
 }
+
