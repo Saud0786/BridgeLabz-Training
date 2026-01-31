@@ -3,7 +3,6 @@ import java.util.*;
 
 public class EventWelcomeApp {
     public static void main(String[] args) {
-
         List<String> attendees = List.of("Alice", "Bob", "Bob", "Charlie","Diana");
 
         attendees.forEach(name ->
@@ -11,3 +10,4 @@ public class EventWelcomeApp {
         );
     }
 }
+
