@@ -57,7 +57,7 @@
 - Focusing on **Java interface design and functional programming concepts**  
 - Interfaces help achieve **abstraction, loose coupling, and multiple inheritance**
 
----
+
 
 ### Best Practices for Interfaces
 - Keep interfaces small and focused (Single Responsibility)
@@ -65,27 +65,23 @@
 - Use default methods sparingly
 - Avoid breaking changes in public interfaces
 
----
 
 ### Why Functional Interfaces?
 - Exactly one abstract method
 - Enable usage of lambda expressions
 - Improve code flexibility and readability
 
----
 
 ### Default & Static Methods
 - Default methods allow behavior addition without breaking implementations
 - Static methods belong to the interface, not the implementing class
 
----
 
 ### Marker Interfaces
 - Do not contain methods
 - Used to mark a class with special behavior
 - Example: `Serializable`, `Cloneable`
 
----
 
 ### 🔹 Questions Practice
 
@@ -149,26 +145,24 @@
 - allMatch
 - noneMatch
 
----
 
 ### Stateless vs Stateful Operations
 - Stateless operations process each element independently (e.g., filter, map)
 - Stateful operations depend on previously seen elements (e.g., sorted, distinct)
 
----
 
 ### Ordered vs Unordered Streams
 - Ordered streams preserve encounter order
 - Unordered streams allow optimization and improved performance
 
----
+
 
 ### Parallel Streams
 - Enable parallel processing using multiple threads
 - Improve performance for large data sets
 - Order is not guaranteed unless explicitly preserved
 
----
+
 
 ### forEach(): Iterable vs Stream
 - Iterable forEach executes sequentially and preserves order
@@ -185,3 +179,57 @@
  
 
 **Code Link:** [Stream Operations & Parallel Streams](https://github.com/Saud0786/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Features/src/com/streamapi)
+
+---
+
+
+## 📅 Day 3: Collectors – Roles and Capabilities
+**Date:** 30 January 2026
+
+### 🔹 Concept
+Collectors in Java 8 are utility methods used with `Stream.collect()` to accumulate stream
+elements into collections, maps, strings, or statistical summaries. They provide powerful,
+ready-made reduction operations for data processing.
+
+
+### 🔹 Roles of Collectors
+1. **Transform Data** – Convert elements from one form to another  
+2. **Aggregate Data** – Count, sum, or compute averages  
+3. **Group Data** – Classify elements into groups  
+4. **Partition Data** – Split elements into two categories based on a predicate  
+
+
+
+### 🔹 Common Collector Capabilities
+- `toList()`, `toSet()`, `toMap()`  
+- `joining()` – Concatenate strings  
+- `groupingBy()` – Group elements by a key  
+- `partitioningBy()` – Divide data into two groups  
+- `summarizingInt()` – Generate statistical summaries  
+
+
+
+### 🔹 Example
+```java
+Map<Character, List<String>> grouped =
+Arrays.asList("apple", "banana", "avocado")
+.stream()
+.collect(Collectors.groupingBy(s -> s.charAt(0)));
+ ```
+
+
+### 🔹 Questions Practice – Collectors
+
+1. Student Result Grouping  
+2. Word Frequency Counter  
+3. Order Revenue Summary  
+4. Employee Salary Categorization  
+5. Library Book Statistics  
+
+
+**Code Link:** [Collectors – Roles and Capabilities](https://github.com/Saud0786/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Features/src/com/collectors)
+
+---
+
+
+
