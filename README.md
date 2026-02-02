@@ -123,3 +123,65 @@
 **Code Link:** [Java Interfaces Practice](https://github.com/Saud0786/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Features/src/com/all_interfaces)
 
 ---
+
+## 📅 Day 3: Stream Operations & Parallel Streams
+**Date:** 29 January 2026
+
+
+### 🔹 Topics Covered
+
+**Intermediate Operations**
+- filter
+- map
+- flatMap
+- distinct
+- sorted
+- peek
+- limit
+- skip
+
+**Terminal Operations**
+- collect
+- forEach
+- reduce
+- count
+- anyMatch
+- allMatch
+- noneMatch
+
+---
+
+### Stateless vs Stateful Operations
+- Stateless operations process each element independently (e.g., filter, map)
+- Stateful operations depend on previously seen elements (e.g., sorted, distinct)
+
+---
+
+### Ordered vs Unordered Streams
+- Ordered streams preserve encounter order
+- Unordered streams allow optimization and improved performance
+
+---
+
+### Parallel Streams
+- Enable parallel processing using multiple threads
+- Improve performance for large data sets
+- Order is not guaranteed unless explicitly preserved
+
+---
+
+### forEach(): Iterable vs Stream
+- Iterable forEach executes sequentially and preserves order
+- Stream forEach may execute in any order, especially with parallel streams
+
+
+ ### 🔹 Questions Practice – Stream API
+
+1. Top 5 Trending Movies  
+2. Hospital Doctor Availability  
+3. Insurance Claim Analysis  
+4. Filtering Expiring Memberships  
+5. Transforming Names for Display  
+ 
+
+**Code Link:** [Stream Operations & Parallel Streams](https://github.com/Saud0786/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Features/src/com/streamapi)
