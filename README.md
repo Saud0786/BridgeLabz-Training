@@ -183,7 +183,7 @@
 ---
 
 
-## 📅 Day 3: Collectors – Roles and Capabilities
+## 📅 Day 4: Collectors – Roles and Capabilities
 **Date:** 30 January 2026
 
 ### 🔹 Concept
@@ -232,4 +232,65 @@ Arrays.asList("apple", "banana", "avocado")
 ---
 
 
+## 📅 Day 5: Smart City Transport & Service Management System
+**Date:** 31 January 2026
+
+### 🔹 Case Study Overview
+The Smart City Transport & Service Management System integrates buses, metros, taxis,
+and EV charging stations to manage routes, schedules, passenger data, and real-time
+dashboards using modern Java 8 features.
+
+### 🔹 Java 8 Features Used
+
+1. **Lambda Expressions**  
+- Filter and sort transport schedules based on user preferences such as departure time
+  and fare.
+
+2. **Method References**  
+- Used for printing service details, logging, and invoking static fare calculation utilities.
+
+3. **Defining and Implementing Interfaces**  
+- `TransportService` interface implemented by `BusService`, `MetroService`,
+  and `TaxiService`.
+
+4. **Default Methods in Interfaces**  
+- Common behavior like `printServiceDetails()` shared across all transport services.
+
+5. **Static Methods in Interfaces**  
+- `calculateDistance()` defined in `GeoUtils` interface for distance computation.
+
+6. **Functional Interfaces**  
+- `FareCalculator` functional interface implemented using lambda expressions.
+
+7. **Stream API**  
+- Process passenger data, calculate revenue, and identify top-used routes.
+
+8. **forEach() Method**  
+- Display live transport schedules on real-time dashboards.
+
+9. **Collectors – Roles and Capabilities**  
+- `groupingBy()` to group passengers by route.  
+- `partitioningBy()` to separate peak and non-peak trips.  
+- `summarizingDouble()` to compute fare statistics.
+
+10. **Marker Interfaces**  
+- `EmergencyService` marker interface for prioritizing emergency vehicles.
+
+### 🔹 System Goals
+- Filter, group, and summarize transport data in real time.
+- Dynamically display live service schedules.
+- Easily extend the system by adding new services like Ferry or Bike Rental.
+- Prioritize emergency services during critical situations.
+
+### 🔹 Real-Time Flow
+1. Passenger books a trip → Lambdas filter and sort services.  
+2. Dashboard updates → `forEach()` displays active services.  
+3. Revenue reports → Collectors aggregate and summarize data.  
+4. System expansion → New services implement existing interfaces.  
+5. Emergency handling → Marker interface enables priority access.
+
+
+**Code Link:** [Smart City Transport & Service Management System](https://github.com/Saud0786/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Features/src/com/workshop/servicemanagementsystem)
+
+---
 
