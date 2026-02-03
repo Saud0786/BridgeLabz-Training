@@ -15,6 +15,7 @@ public class BankManagementSystem {
         Customer c2 = new Customer("Customer-2", bank, 1);
         Customer c3 = new Customer("Customer-3", bank, 2);
         
+        
         // Start threads
         c1.start();
         c2.start();
