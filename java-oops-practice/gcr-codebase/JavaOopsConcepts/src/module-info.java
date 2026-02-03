@@ -4,5 +4,5 @@
 /**
  * 
  */
-module javaOopsConcepts {
+module JavaOopsConcepts {
 }
