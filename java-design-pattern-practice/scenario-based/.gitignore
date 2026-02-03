@@ -1,1 +1,17 @@
+# Eclipse / Java
+bin/
+.settings/
+.project
+.classpath
 /.metadata/
+.gitignore
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Compiled files
+*.class
