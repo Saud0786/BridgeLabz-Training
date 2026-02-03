@@ -50,7 +50,7 @@ readability, and simplifies future enhancements.
 - Structural Patterns
 - Behavioral Patterns
 
----
+
 
 ### 🔹 Design Patterns Studied
 
@@ -70,14 +70,14 @@ readability, and simplifies future enhancements.
 - Separates object construction from representation
 - Useful for creating complex objects step by step
 
----
+
 
 ### 🔹 UML Designing
 - Class Diagrams for design pattern representation
 - Identifying relationships: association, inheritance, dependency
 - Visualizing object interactions and responsibilities
 
----
+
 
 ### 🔹 Why Use Design Patterns?
 - Reusable and proven solutions
@@ -97,3 +97,94 @@ readability, and simplifies future enhancements.
 
 
 
+## 📅 Day 3: Introduction to Java Multithreading
+
+
+### 🔹 Core Concepts
+
+**Process**
+- A process is an independent program execution with its own memory space.
+- A process can contain multiple threads.
+- It remains alive until all non-daemon threads finish execution.
+
+**Thread**
+- A thread is the smallest unit of execution.
+- Threads share the process memory but have independent execution paths.
+- A thread cannot exist without a process.
+
+---
+
+### 🔹 What is Multithreading?
+- Java multithreading allows multiple threads to execute concurrently.
+- Improves performance by parallel task execution.
+- Enhances responsiveness, especially in GUI and server applications.
+
+---
+
+### 🔹 Pros and Cons of Multithreading
+
+**Pros**
+- Efficient CPU utilization
+- Faster execution through parallelism
+- Better performance on multi-core systems
+- Improved application responsiveness
+- Thread failures don’t crash the entire process
+
+**Cons**
+- Increased code complexity
+- Difficult debugging and testing
+- Risk of deadlock and starvation
+- Synchronization overhead
+
+---
+
+### 🔹 Thread Lifecycle
+- **New** – Thread object created, start() not called
+- **Runnable** – Ready to run, waiting for CPU
+- **Running** – Actively executing
+- **Blocked / Non-Runnable** – Waiting or sleeping
+- **Terminated** – Execution completed
+
+---
+
+### 🔹 Creating Threads in Java
+1. Extending the `Thread` class  
+2. Implementing the `Runnable` interface  
+
+---
+
+### 🔹 Thread Class Features
+- Thread creation and execution: `start()`, `run()`
+- Naming: `getName()`, `setName()`
+- Control: `sleep()`, `join()`, `yield()`
+- State & status: `isAlive()`, `getState()`
+- Priority: `getPriority()`, `setPriority()`
+- Interruption: `interrupt()`, `isInterrupted()`
+
+---
+
+### 🔹 Thread Types
+- **User Threads** – Must finish before JVM exits
+- **Daemon Threads** – Background services (GC, cleanup)
+
+---
+
+### 🔹 Key Takeaways
+- Multithreading improves performance but requires careful design
+- Proper synchronization is critical
+- Prefer `Runnable` for better design flexibility
+- Deprecated methods like `stop()`, `suspend()` should be avoided
+
+
+### 🔹 Practice Problems – Java Multithreading
+
+1. Download Manager  
+2. Banking System with Multiple Transactions  
+3. Restaurant Order Processing System  
+4. Thread State Monitoring System  
+5. Print Shop Job Scheduler  
+
+
+**Code link:** [Multithreading-questions](https://github.com/Saud0786/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/DesignPatternPractice/src/com/multithreading)
+
+---
