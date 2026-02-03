@@ -240,6 +240,8 @@ java-oops-practice/
 24. GameBox – Mobile Game Distribution Platform
 25. PayXpress – Utility Bill Payment System
 26. Bird Sanctuary
+27. Bag-n ball organizer
+28. Line Comparison appliction
 
 **Concepts:** Encapsulation, Polymorphism, Interfaces & Abstract Classes
 **Loops:** for, while  
