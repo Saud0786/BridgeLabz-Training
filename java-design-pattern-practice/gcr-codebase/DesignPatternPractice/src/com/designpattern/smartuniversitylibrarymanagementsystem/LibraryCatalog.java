@@ -1,9 +1,9 @@
-package com.designpattern.librarymanagementsystem;
+package com.designpattern.smartuniversitylibrarymanagementsystem;
 
 import java.util.*;
 
 class LibraryCatalog {
-	
+
     private static LibraryCatalog instance;
     private List<Book> books = new ArrayList<>();
     private List<Observer> observers = new ArrayList<>();
@@ -12,27 +12,25 @@ class LibraryCatalog {
     }
 
     public static synchronized LibraryCatalog getInstance() {
-        if (instance == null)
+        if (instance == null) {
             instance = new LibraryCatalog();
+        }
         return instance;
     }
 
     public void addBook(Book book) {
         books.add(book);
-        newBookArrived(book.getTitle());
+        System.out.println("New book added: " + book.getTitle());
+        notifyObservers(book.getTitle());
     }
 
-    public void addObserver(Observer o) {
-        observers.add(o);
+    public void registerObserver(Observer observer) {
+        observers.add(observer);
     }
 
-    public void removeObserver(Observer o) {
-        observers.remove(o);
-    }
-
-    private void newBookArrived(String bookName) {
+    private void notifyObservers(String bookTitle) {
         for (Observer o : observers) {
-            o.update("New book available: " + bookName);
+            o.update(bookTitle);
         }
     }
 }
