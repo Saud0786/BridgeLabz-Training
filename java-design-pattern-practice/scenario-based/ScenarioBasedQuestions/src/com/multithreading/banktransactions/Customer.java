@@ -11,7 +11,7 @@ public class Customer extends Thread{
 	  this.accountNumber = accountNumber;
   }
   
-  
+ 
   @Override
   public void run() {
 	  bank.deposit(accountNumber, 1000);
