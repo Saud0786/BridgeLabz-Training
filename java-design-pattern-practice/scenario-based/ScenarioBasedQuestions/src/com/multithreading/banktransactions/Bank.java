@@ -10,7 +10,8 @@ public class Bank {
        accounts.put(accountNumber, initialBalance);
    }
     
-   // deposit
+   
+   // deposit amount
    public synchronized void deposit(int accountNumber, int amount) {
        int currentBalance = accounts.get(accountNumber);
        accounts.put(accountNumber, currentBalance + amount);
@@ -18,7 +19,7 @@ public class Bank {
                + " deposited " + amount + " into account " + accountNumber);
    }
     
-   // withdraw
+   // withdraw amount
    public synchronized void withdraw(int accountNumber, int amount) {
 	   
        int currentBalance = accounts.get(accountNumber);
